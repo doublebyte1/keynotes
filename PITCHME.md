@@ -1,11 +1,11 @@
 #HSLIDE
 
-# Omeletes sem Ovos
-### A poor man's GIS
+# Micro-services through Docker
+### Tales from a Journey
 
 #HSLIDE
 
-![ola](assets/ola.jpg)
+![ola](assets/journey.jpg)
 
 #HSLIDE
 
@@ -83,9 +83,9 @@
 
 #HSLIDE
 
-+ gvSIG 
-+ uDig <!-- .element: class="fragment" --> 
-+ openJUMP <!-- .element: class="fragment" -->  
++ gvSIG
++ uDig <!-- .element: class="fragment" -->
++ openJUMP <!-- .element: class="fragment" -->
 + Saga GIS <!-- .element: class="fragment" -->
 + PostreSQL + PostGIS <!-- .element: class="fragment" -->
 + Spatialite <!-- .element: class="fragment" -->
