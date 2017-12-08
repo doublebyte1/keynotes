@@ -69,9 +69,6 @@ TODO: use case
 
 #Trusting a Third Party
 
-<!--
-![manifesto](assets/third-party.jpg)
--->
 ----?image=assets/third-party.jpg&size=auto 85%
 
 +++
