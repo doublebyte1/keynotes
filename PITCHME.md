@@ -3,11 +3,11 @@
 # Micro-services through Docker
 ### Tales from a Journey
 
-#HSLIDE
++++
 
 ![journey](assets/journey.jpg)
 
-#HSLIDE
++++
 
 ### <span style="color:#e49436">"</span> The only source of knowledge is experience
 <span style="font-size:0.6em; color:gray">Albert Einstein</span>
