@@ -5,7 +5,7 @@
 
 #HSLIDE
 
-![ola](assets/journey.jpg)
+![journey](assets/journey.jpg)
 
 #HSLIDE
 
