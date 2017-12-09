@@ -54,13 +54,13 @@ TODO: use case
 
 ---
 
-# Riding on the crest of the Wave
+## Riding on the crest of the Wave
 
-![manifesto](assets/wave.jpg)
+<img src="assets/wave.jpg" width="70%">
 
 ---
 
-# Distributed Development
+## Distributed Development
 
 ### <span style="color:#e49436">"</span> No matter what the problem is, it's always a people problem <span style="color:#e49436">"
 <span style="font-size:0.6em; color:gray">Gerald M. Weinberg</span>
