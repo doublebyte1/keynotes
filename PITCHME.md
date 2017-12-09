@@ -69,7 +69,7 @@ TODO: use case
 
 # Trusting a Third Party
 
-![manifesto](assets/third-party.jpg  | width=100)
+<img src="assets/third-party.jpg" height="100">
 
 +++
 
