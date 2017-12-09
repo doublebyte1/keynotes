@@ -7,10 +7,13 @@
 
 +++
 
-# Introduction
+## Introduction
 
-TODO: who am I/ Geocat
++ Micro-company, based in the NL
++ Spatial Data Infrastructures (SDI)
++ FOSS
 
+![journey](assets/team.jpg)
 ---
 
 TODO: use case
