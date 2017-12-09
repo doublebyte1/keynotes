@@ -67,9 +67,9 @@ TODO: use case
 
 ---
 
-# Trusting a Third Party
+### Trusting a Third Party
 
-<img src="assets/third-party.jpg" height="100">
+<img src="assets/third-party.jpg" width="70%">
 
 +++
 
