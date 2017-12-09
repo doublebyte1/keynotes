@@ -7,7 +7,7 @@
 
 +++
 
-#Introduction
+# Introduction
 
 TODO: who am I/ Geocat
 
@@ -17,68 +17,68 @@ TODO: use case
 
 ---
 
-#Why Microservices?
+# Why Microservices?
 
 ---
 
-#Why Docker?
+# Why Docker?
 
 +++
 
-#The System
+# The System
 
 
 +++
 
-#Highlights
+# Highlights
 
 ---
 
-#Managing Starting Order
+# Managing Starting Order
 
 ---
 
-#Sharing and Persisting Data
+# Sharing and Persisting Data
 
 ---
 
-#Container Communication
+# Container Communication
 
 ---
 
-#Development and Production Configurations
+# Development and Production Configurations
 
 +++
 
-#Challenges
+# Challenges
 
 ---
 
-#Riding on the crest of the Wave
+# Riding on the crest of the Wave
 
 ![manifesto](assets/wave.jpg)
 
 ---
 
-#Distributed Development
+# Distributed Development
 
 ### <span style="color:#e49436">"</span> No matter what the problem is, it's always a people problem <span style="color:#e49436">"
 <span style="font-size:0.6em; color:gray">Gerald M. Weinberg</span>
 
 ---
 
-#Trusting a Third Party
+# Trusting a Third Party
 
 ![manifesto](assets/third-party.jpg)
 
 +++
 
-#Final Thoughts
+# Final Thoughts
 
 +++
 
-#Thank You!
-##Questions?
+# Thank You!
+## Questions?
 
 * twitter -> @doublebyte
 * github -> @doublebyte1
