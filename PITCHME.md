@@ -72,8 +72,10 @@ Microservices is an architecture which breaks large software projects into loose
 
 +++
 
-# The System
+## The System
 ![team](assets/docker-compose1.png)
+
++++?image=assets/matrioska.jpg
 
 +++
 
