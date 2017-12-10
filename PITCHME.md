@@ -59,9 +59,16 @@ Build once, ship anywhere
 
 ---
 ## Why Microservices?
+- Isolation |
+- Simplicity |
 
+<!--
+A failure of a component does not affect the entire System
+easier upgrades; we can combine multiple technologies
+Its easier to understand single components; scalability
 
-
+Microservices is an architecture which breaks large software projects into loosely coupled modules, which communicate with each other through REST APIs.
+-->
 
 +++
 
