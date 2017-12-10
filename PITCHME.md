@@ -48,7 +48,7 @@ Build once, ship anywhere
 
 ---
 
-## SDI as a Service
+## SDI as-a-Service
 - Create and manage customer orders
 - Deploy and mananage servers
 - Transform software assets into images
@@ -79,19 +79,26 @@ Microservices is an architecture which breaks large software projects into loose
 
 +++
 
-# Highlights
+## Stack
+- Docker Engine, Docker-compose, Docker-machine
+- Spring Boot, Spring Cloud
+- Flask, Swagger
+- Jenkins, Nexus
+
++++
+
+## Hightlights
+---
+
+## Managing Starting Order
 
 ---
 
-# Managing Starting Order
+## Sharing and Persisting Data
 
 ---
 
-# Sharing and Persisting Data
-
----
-
-# Container Communication
+## Container Communication
 
 ---
 
