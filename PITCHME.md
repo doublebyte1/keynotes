@@ -295,6 +295,13 @@ https://docs.docker.com/engine/admin/volumes/volumes/
 ## Container Communication
 ### through docker networking
 ---
+## Resolving IP Adresses
+- User-defined networks
+- Legacy `Link`
+
+<!--
+If you want containers to be able to resolve IP addresses by container name, you should use user-defined networks instead
+-->
 
 # Development and Production Configurations
 
