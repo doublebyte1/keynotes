@@ -15,20 +15,18 @@
 
 ![team](assets/team.jpg)
 
----?image=assets/sdi.png
-
+---
 ## SDI
 
-<!--
 ![team](assets/sdi.png)
 
- data infrastructure implementing a framework of geographic data, metadata, users and tools that are interactively connected in order to use spatial data in an efficient and flexible way
+<!-- data infrastructure implementing a framework of geographic data, metadata, users and tools that are interactively connected in order to use spatial data in an efficient and flexible way
  -->
 
+---?image=assets/artisan.jpg
+
 ---
 
-
----
 # Why Docker?
 
 
