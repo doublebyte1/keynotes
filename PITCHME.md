@@ -48,7 +48,7 @@ Build once, ship anywhere
 
 ---
 
-# SDI as a Service
+## SDI as a Service
 - Create and manage customer orders
 - Deploy and mananage servers
 - Transform software assets into images
@@ -57,7 +57,7 @@ Build once, ship anywhere
 
 ---
 
-# Why Microservices?
+## Why Microservices?
 
 +++
 
