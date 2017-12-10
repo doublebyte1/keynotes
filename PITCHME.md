@@ -87,7 +87,8 @@ Microservices is an architecture which breaks large software projects into loose
 
 +++
 
-## Hightlights
+## Docker for Microservices
+### Hightlights
 ---
 
 ## Managing Starting Order
