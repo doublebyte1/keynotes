@@ -27,9 +27,6 @@
 
 ---?image=assets/Docker-Security.jpg
 
-# Docker
-
-
 ---
 
 # Why Microservices?
