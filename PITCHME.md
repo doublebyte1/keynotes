@@ -18,7 +18,7 @@
 
 ## SDI
 
----?image=assets/sdi.jpg
+---?image=assets/sdi.png
 <!--
 ![team](assets/sdi.png)
 
