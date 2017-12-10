@@ -92,9 +92,7 @@ Microservices is an architecture which breaks large software projects into loose
 ---
 
 ## Managing Starting Order
-
-+++?image=assets/virtualization_before.jpg
-
+### when dependence is not enough
 ---
 ### Wait-for-it
 
@@ -282,11 +280,20 @@ https://github.com/vishnubob/wait-for-it
 ---
 
 ## Sharing and Persisting Data
+### in a world of ephemeral containers
+---
 
+### Named volumes
+- Easy to backup
+- Shared among containers
+
+https://docs.docker.com/engine/admin/volumes/volumes/
+
+<!-- work on different OS; not bind volumes; other patterns -->
 ---
 
 ## Container Communication
-
+### through docker networking
 ---
 
 # Development and Production Configurations
