@@ -41,9 +41,8 @@ Build once, ship anywhere
 - Modularity
 -->
 
----?image=assets/docker-compose.png
+---?image=assets/docker-compose.png&size=auto 90%
 
----
 ## SDI
 
 
