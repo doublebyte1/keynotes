@@ -31,6 +31,7 @@
 
 - Automation  |
 - Repetability   |
+
 <!--
 - Rapid deployment  |
 - Portability across machines   |
