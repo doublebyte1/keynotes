@@ -36,9 +36,9 @@
 <!--
 Infrastructure as code
 Build once, ship anywhere
-- Rapid deployment  |
-- Portability across machines   |
-- Modularity      |
+- Rapid deployment 
+- Portability across machines
+- Modularity
 -->
 
 ---
