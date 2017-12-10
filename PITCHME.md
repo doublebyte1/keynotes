@@ -313,7 +313,7 @@ If you want containers to be able to resolve IP addresses by container name, you
 
 ---?image=assets/wave.jpg
 
-## <span style="color:#e49436"></span> Riding on the crest of the Wave <span style="color:#ff9933">
+## <span style="color:#e49436"> Riding on the crest of the Wave </span>
 
 ---
 
