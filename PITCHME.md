@@ -14,11 +14,11 @@
 + FOSS
 
 ![team](assets/team.jpg)
----
+
+---?image=assets/sdi.png
 
 ## SDI
 
----?image=assets/sdi.png
 <!--
 ![team](assets/sdi.png)
 
