@@ -23,7 +23,7 @@
 
 ---?image=assets/artisan.jpg
 
----?image=assets/Docker-Security.jpg
+---?image=assets/Docker-Security.jpg&size=auto 90%
 
 ---
 
