@@ -41,10 +41,10 @@ Build once, ship anywhere
 - Modularity
 -->
 
----?image=assets/docker-compose.png&size=auto 90%
-
+---
 ## SDI
 
+![team](assets/docker-compose.png)
 
 ---
 
