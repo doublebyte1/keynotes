@@ -57,7 +57,11 @@ Build once, ship anywhere
 
 ---?image=assets/virtualization_before.jpg&size=auto 90%
 
+---
 ## Why Microservices?
+
+
+
 
 +++
 
