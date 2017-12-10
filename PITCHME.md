@@ -62,7 +62,7 @@ Build once, ship anywhere
 - Isolation |
 - Simplicity |
 - Scalability |
--
+
 <!--
 A failure of a component does not affect the entire System
 easier upgrades; we can combine multiple technologies
