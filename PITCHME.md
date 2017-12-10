@@ -55,7 +55,7 @@ Build once, ship anywhere
 - Deploy and manage orchestrations
 - Link customer orders to servers/orchestrations
 
----?image=assets/virtualization_before.jpg&size=auto 90%
+---?image=assets/virtualization_before.jpg
 
 ---
 ## Why Microservices?
