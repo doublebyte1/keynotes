@@ -118,9 +118,7 @@ Microservices is an architecture which breaks large software projects into loose
 
 <img src="assets/third-party.jpg" width="70%">
 
-+++
-
-# Final Thoughts
++++?image=assets/journey.jpg&size=auto 90%
 
 +++
 
