@@ -25,7 +25,6 @@
 
 ---?image=assets/artisan.jpg
 
----
 
 # Why Docker?
 
