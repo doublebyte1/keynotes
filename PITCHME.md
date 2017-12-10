@@ -93,7 +93,7 @@ Microservices is an architecture which breaks large software projects into loose
 
 ## Managing Starting Order
 
----?image=assets/virtualization_before.jpg
++++?image=assets/virtualization_before.jpg
 
 ---
 ### Wait-for-it
