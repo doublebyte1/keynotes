@@ -42,13 +42,13 @@ Build once, ship anywhere
 -->
 
 ---
-## System
+## SDI
 
 ![team](assets/docker-compose.png)
 
 ---
 
-# Requirements
+# SDI as a Service
 - Create and manage customer orders
 - Deploy and mananage servers
 - Transform software assets into images
