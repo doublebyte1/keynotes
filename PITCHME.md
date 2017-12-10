@@ -306,16 +306,14 @@ If you want containers to be able to resolve IP addresses by container name, you
 
 ---
 ## Development and Production Configurations
-
+### <span style="color:#e49436">"</span> Develop once, deploy everywhere. <span style="color:#e49436">"
 +++
 
 # Challenges
 
----
+---?image=assets/wave.jpg
 
 ## Riding on the crest of the Wave
-
-<img src="assets/wave.jpg" width="70%">
 
 ---
 
