@@ -1,9 +1,7 @@
 # Micro-services through Docker
 ### Tales from a Journey
 
-+++
-
-![journey](assets/journey.jpg)
++++?image=assets/journey.jpg
 
 +++
 
