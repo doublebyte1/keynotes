@@ -27,6 +27,18 @@
 
 ---
 
+# Why Docker?
+
+- Automation  |
+- Repetability   |
+<!--
+- Rapid deployment  |
+- Portability across machines   |
+- Modularity      |
+-->
+
+---
+
 # Why Microservices?
 
 +++
