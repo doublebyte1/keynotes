@@ -27,7 +27,7 @@
 
 ---
 
-# Why Docker?
+## Why Docker?
 
 - Automation  |
 - Portability |
@@ -36,22 +36,26 @@
 <!--
 Infrastructure as code
 Build once, ship anywhere
-- Rapid deployment 
+- Rapid deployment
 - Portability across machines
 - Modularity
 -->
 
 ---
-# System
+## System
 
 ![team](assets/docker-compose.png)
+
+---
 
 # Requirements
 - Create and manage customer orders
 - Deploy and mananage servers
 - Transform software assets into images
 - Deploy and manage orchestrations
-- Link/ customer orders to orchestrations
+- Link customer orders to servers/orchestrations
+
+---
 
 # Why Microservices?
 
