@@ -91,7 +91,7 @@ Microservices is an architecture which breaks large software projects into loose
 
 ## Docker for Microservices
 ### Hightlights
-+++
+---
 
 ## Managing Starting Order
 ### when dependence is not enough
@@ -279,7 +279,7 @@ fi
 ```
 https://github.com/vishnubob/wait-for-it
 <!-- Pure bash script to test and wait on the availability of a TCP host and port -->
-+++
+---
 
 ## Sharing and Persisting Data
 ### in a world of ephemeral containers
@@ -292,7 +292,7 @@ https://github.com/vishnubob/wait-for-it
 https://docs.docker.com/engine/admin/volumes/volumes/
 
 <!-- work on different OS; not bind volumes; other patterns -->
-+++
+---
 
 ## Container Communication
 ### through docker networking
@@ -305,25 +305,25 @@ https://docs.docker.com/engine/admin/volumes/volumes/
 If you want containers to be able to resolve IP addresses by container name, you should use user-defined networks instead
 -->
 
-+++
+---
 ## Development and Production Configurations
 ### <span style="color:#e49436">"</span> Develop once, deploy everywhere. <span style="color:#e49436">"
 ---
 
 # Challenges
 
-+++?image=assets/wave.jpg
+---?image=assets/wave.jpg
 
 ## <span style="color:#e49436"> Riding on the crest of the Wave </span>
 
-+++
+---
 
 ## Distributed Development
 
 ### <span style="color:#e49436">"</span> No matter what the problem is, it's always a people problem <span style="color:#e49436">"
 <span style="font-size:0.6em; color:gray">Gerald M. Weinberg</span>
 
-+++
+---
 
 ## Trusting a Third Party
 
