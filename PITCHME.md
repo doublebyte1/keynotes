@@ -23,7 +23,7 @@
 
 +++?image=assets/artisan.jpg
 <!-- .slide: data-background-transition="none" -->
-+++?image=assets/artisan2.jpg
+---?image=assets/artisan2.jpg
 +++?image=assets/Docker-Security.jpg&size=auto 90%
 
 ---
