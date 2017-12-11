@@ -1,5 +1,5 @@
 # Micro-services through Docker
-### Tales from a Journey
+<span style="color:#e49436">### Tales from a Journey</span>
 
 +++?image=assets/journey.jpg&size=auto 90%
 
