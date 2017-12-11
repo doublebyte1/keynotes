@@ -3,7 +3,7 @@
 
 +++?image=assets/journey.jpg&size=auto 90%
 
-+++
+---
 
 ## Introduction
 
@@ -21,14 +21,12 @@
 <!-- data infrastructure implementing a framework of geographic data, metadata, users and tools that are interactively connected in order to use spatial data in an efficient and flexible way
  -->
 
----?image=assets/artisan.jpg
++++?image=assets/artisan.jpg
 <!-- .slide: data-background-transition="none" -->
----?image=assets/artisan2.jpg
-<!-- .slide: data-background-transition="none" -->
----?image=assets/Docker-Security.jpg&size=auto 90%
++++?image=assets/artisan2.jpg
++++?image=assets/Docker-Security.jpg&size=auto 90%
 
 ---
-
 ## Why Docker?
 
 - Automation  |
@@ -43,12 +41,12 @@ Build once, ship anywhere
 - Modularity
 -->
 
----
++++
 ## SDI
 
 ![team](assets/docker-compose.png)
 
----
++++
 
 ## SDI as-a-Service
 - Create and manage customer orders
@@ -57,7 +55,7 @@ Build once, ship anywhere
 - Deploy and manage orchestrations
 - Link customer orders to servers/orchestrations
 
----?image=assets/virtualization_before.jpg
++++?image=assets/virtualization_before.jpg
 
 ---
 ## Why Microservices?
@@ -88,15 +86,15 @@ Microservices is an architecture which breaks large software projects into loose
 - Flask, Swagger
 - Jenkins, Nexus
 
-+++
+---
 
 ## Docker for Microservices
 ### Hightlights
----
++++
 
 ## Managing Starting Order
 ### when dependence is not enough
----
++++
 ### Wait-for-it
 
 ```bash
@@ -280,11 +278,11 @@ fi
 ```
 https://github.com/vishnubob/wait-for-it
 <!-- Pure bash script to test and wait on the availability of a TCP host and port -->
----
++++
 
 ## Sharing and Persisting Data
 ### in a world of ephemeral containers
----
++++
 
 ### Named volumes
 - Easy to backup
@@ -293,11 +291,11 @@ https://github.com/vishnubob/wait-for-it
 https://docs.docker.com/engine/admin/volumes/volumes/
 
 <!-- work on different OS; not bind volumes; other patterns -->
----
++++
 
 ## Container Communication
 ### through docker networking
----
++++
 ## Resolving IP Adresses
 - User-defined networks
 - Legacy "Link"
@@ -306,25 +304,25 @@ https://docs.docker.com/engine/admin/volumes/volumes/
 If you want containers to be able to resolve IP addresses by container name, you should use user-defined networks instead
 -->
 
----
++++
 ## Development and Production Configurations
 ### <span style="color:#e49436">"</span> Develop once, deploy everywhere. <span style="color:#e49436">"
-+++
+---
 
 # Challenges
 
----?image=assets/wave.jpg
++++?image=assets/wave.jpg
 
 ## <span style="color:#e49436"> Riding on the crest of the Wave </span>
 
----
++++
 
 ## Distributed Development
 
 ### <span style="color:#e49436">"</span> No matter what the problem is, it's always a people problem <span style="color:#e49436">"
 <span style="font-size:0.6em; color:gray">Gerald M. Weinberg</span>
 
----
++++
 
 ## Trusting a Third Party
 
@@ -332,22 +330,11 @@ If you want containers to be able to resolve IP addresses by container name, you
 
 +++?image=assets/journey.jpg&size=auto 90%
 
-+++
+---
 
 # Thank You!
-## Questions?
+## I would love to hear your thoughts
 
 * twitter -> @doublebyte
 * github -> @doublebyte1
 * blog -> doublebyte.net
-
-<!--
-![manifesto](assets/manifesto.png)
-
-+ gvSIG
-+ uDig <!-- .element: class="fragment" -->
-<!-- + openJUMP <!-- .element: class="fragment" -->
-<!-- + Saga GIS <!-- .element: class="fragment" -->
-<!-- + PostreSQL + PostGIS <!-- .element: class="fragment" -->
-<!-- + Spatialite <!-- .element: class="fragment" -->
-<!-- + entre outros <!-- .element: class="fragment" -->
