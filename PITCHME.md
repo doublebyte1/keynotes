@@ -21,10 +21,10 @@
 <!-- data infrastructure implementing a framework of geographic data, metadata, users and tools that are interactively connected in order to use spatial data in an efficient and flexible way
  -->
 
-+++?image=assets/artisan.jpg
+---?image=assets/artisan.jpg
 <!-- .slide: data-background-transition="none" -->
 ---?image=assets/artisan2.jpg
-+++?image=assets/Docker-Security.jpg&size=auto 90%
+---?image=assets/Docker-Security.jpg&size=auto 90%
 
 ---
 ## Why Docker?
