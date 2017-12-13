@@ -313,7 +313,7 @@ https://docs.docker.com/engine/userguide/networking/#user-defined-networks
 +++
 
 ## Multiple Compose Files
-### Adding and overriding configuration.
+### Adding and overriding configuration
 
 https://docs.docker.com/compose/extends/
 
