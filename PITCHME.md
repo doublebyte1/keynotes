@@ -305,9 +305,18 @@ https://docs.docker.com/engine/admin/volumes/volumes/
 If you want containers to be able to resolve IP addresses by container name, you should use user-defined networks instead
 -->
 
+https://docs.docker.com/engine/userguide/networking/#user-defined-networks
+
 ---
 ## Development and Production Configurations
 ### <span style="color:#e49436">"</span> Develop once, deploy everywhere. <span style="color:#e49436">"
++++
+
+## Multiple Compose Files
+### Adding and overriding configuration.
+
+https://docs.docker.com/compose/extends/
+
 ---
 
 # Challenges
