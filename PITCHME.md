@@ -91,11 +91,14 @@ Microservices is an architecture which breaks large software projects into loose
 
 ## Docker for Microservices
 ### Hightlights
+
 ---
 
 ## Managing Starting Order
 ### when dependence is not enough
+
 +++
+
 ### Wait-for-it
 
 ```bash
