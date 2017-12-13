@@ -87,7 +87,7 @@ Microservices is an architecture which breaks large software projects into loose
 - Flask, Swagger
 - Jenkins, Nexus
 
-![stack](assets/stack.png&size=auto 70%)
+![stack](assets/stack.png)
 
 ---
 
