@@ -43,11 +43,6 @@ Build once, ship anywhere
 -->
 
 +++
-## SDI
-
-![team](assets/docker-compose.png)
-
-+++
 
 ## SDI as-a-Service
 - Create and manage customer orders
@@ -71,11 +66,6 @@ Its easier to understand single components; scalability
 
 Microservices is an architecture which breaks large software projects into loosely coupled modules, which communicate with each other through REST APIs.
 -->
-
-+++
-
-## The System
-![team](assets/docker-compose1.png)
 
 +++?image=assets/matrioska.jpg
 
