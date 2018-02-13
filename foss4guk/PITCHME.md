@@ -72,6 +72,7 @@ Quite young when compared to the history of GIS
   </div>
 </div>
 
+<!--
 +++
 ## Software Components
 
@@ -79,10 +80,8 @@ Quite young when compared to the history of GIS
 + Spatial Data service
 + Spatial Data repository
 + Processing Service
-+ Client <!-- web, desktop -->
++ Client
 
-
-<!--
 Standards: how we glue these components together; how we do vertical integration
 OGC ISO 19115
 -->
