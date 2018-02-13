@@ -21,6 +21,7 @@ span.fa-byline { color : gray; }
 #content {
   float: right ;
   width: 40% ;
+  vertical-align: middle;
 }
 #navbar {
   vertical-align: middle;
