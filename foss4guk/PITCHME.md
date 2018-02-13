@@ -95,9 +95,9 @@ OGC ISO 19115
   </div>
   <div id="navbar">
     <ul>
-       <li style="font-size:20px">Sharing environmental spatial information among public sector organisations.</li>
-       <li style="font-size:20px">Public access to spatial information across Europe.</li>
-      <li style="font-size:20px">and assist in policy-making across boundaries.</li>
+       <li style="font-size:30px">Sharing environmental spatial information among public sector organisations.</li>
+       <li style="font-size:30px">Public access to spatial information across Europe.</li>
+      <li style="font-size:30px">Assist in policy-making across boundaries.</li>
     </ul>
   </div>
 </div>
