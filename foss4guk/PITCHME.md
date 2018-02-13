@@ -55,6 +55,8 @@ Data as a Service
 <!--
 Quite young when compared to the history of GIS
 -->
+<pr>
+<pr>
 <div id="container">
   <div id="content">
     <img src="https://raw.githubusercontent.com/doublebyte1/keynotes/master/assets/800px-Snow-cholera-map-1.jpg">
