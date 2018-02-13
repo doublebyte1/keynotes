@@ -87,6 +87,20 @@ OGC ISO 19115
 +++?image=assets/sdi-components.png
 
 
+## Inspired by INSPIRE
+
+<div id="container">
+  <div id="content">
+    <img src="https://raw.githubusercontent.com/doublebyte1/keynotes/master/assets/babel.jpg">
+  </div>
+  <div id="navbar">
+       <li style="font-size:30px">Sharing of environmental spatial information among public sector organisations.</li>
+       <li style="font-size:30px">Public access to spatial information across Europe and assist in policy-making across boundaries..</li>
+    </ul>
+  </div>
+</div>
+
+
 
 <!--
 trust
