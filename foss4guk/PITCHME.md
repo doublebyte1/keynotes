@@ -73,8 +73,8 @@ Quite young when compared to the history of GIS
   </div>
 </div>
 
-<!--
-+++
+
+<!-- +++
 ## Software Components
 
 + Catalogue service
@@ -82,10 +82,10 @@ Quite young when compared to the history of GIS
 + Spatial Data repository
 + Processing Service
 + Client
-
-Standards: how we glue these components together; how we do vertical integration
-OGC ISO 19115
 -->
+
+<!-- Standards: how we glue these components together; how we do vertical integration
+OGC ISO 19115 -->
 
 +++?image=assets/sdi-components.png
 <!-- .slide: data-background-transition="none" -->
