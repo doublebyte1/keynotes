@@ -86,6 +86,7 @@ OGC ISO 19115
 
 +++?image=assets/sdi-components.png
 
++++
 
 ## Inspired by INSPIRE
 
