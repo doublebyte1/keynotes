@@ -83,7 +83,10 @@ Standards: how we glue these components together; how we do vertical integration
 OGC ISO 19115
 -->
 
-+++?image=assets/sdi-components.png
+---?image=assets/sdi-components.png
+<!-- .slide: data-background-transition="none" -->
+---?image=assets/sdi-components2.png
+
 
 +++
 
