@@ -92,7 +92,7 @@ Key to delivering INSPIRE is the establishment of Spatial Data Infrastructures (
 -->
 
 
-
+---
 
 # Thank You!
 ## I would love to hear your thoughts
