@@ -91,7 +91,7 @@ OGC ISO 19115
 
 <div id="container">
   <div id="content">
-    <img src="https://raw.githubusercontent.com/doublebyte1/keynotes/master/assets/babel.jpg" width="70%">
+    <img src="https://raw.githubusercontent.com/doublebyte1/keynotes/master/assets/babel.jpg" width="80%">
   </div>
   <div id="navbar">
     <ul>
