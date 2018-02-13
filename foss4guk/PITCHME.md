@@ -92,12 +92,12 @@ OGC ISO 19115
 
 <div id="container">
   <div id="content">
-    <img src="https://raw.githubusercontent.com/doublebyte1/keynotes/master/assets/babel.jpg" width="50%">
+    <img src="https://raw.githubusercontent.com/doublebyte1/keynotes/master/assets/babel.jpg" width="70%">
   </div>
   <div id="navbar">
-       <li style="font-size:30px">Sharing environmental spatial information among public sector organisations.</li>
-       <li style="font-size:30px">Public access to spatial information across Europe.</li>
-        <li style="font-size:30px">and assist in policy-making across boundaries.</li>
+       <li style="font-size:20px">Sharing environmental spatial information among public sector organisations.</li>
+       <li style="font-size:20px">Public access to spatial information across Europe.</li>
+        <li style="font-size:20px">and assist in policy-making across boundaries.</li>
     </ul>
   </div>
 </div>
