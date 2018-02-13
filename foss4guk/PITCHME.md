@@ -37,7 +37,7 @@
 <!-- Why I picked this topic?-->
 ## GeoCat Live
 
-+ Cloud SDI As a service
++ Cloud SDI As a Service
 
 ![team](assets/LiveGraph.png)
 
