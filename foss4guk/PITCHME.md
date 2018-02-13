@@ -60,6 +60,8 @@ Quite young when compared to the history of GIS
     <img src="https://raw.githubusercontent.com/doublebyte1/keynotes/master/assets/800px-Snow-cholera-map-1.jpg">
   </div>
   <div id="navbar">
+  <br>
+  <br>
     <ul>
        <li style="font-size:30px">John Snow's cholera maps (1854).</li>
        <li style="font-size:30px">US NSDI (1994).</li>
