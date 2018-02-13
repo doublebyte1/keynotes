@@ -86,6 +86,8 @@ OGC ISO 19115
 ---?image=assets/sdi-components.png
 <!-- .slide: data-background-transition="none" -->
 ---?image=assets/sdi-components2.png
+<!-- .slide: data-background-transition="none" -->
+---?image=assets/sdi-components3.png
 
 
 +++
