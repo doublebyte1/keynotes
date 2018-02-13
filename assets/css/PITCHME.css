@@ -21,10 +21,11 @@ span.fa-byline { color : gray; }
 #content {
   float: right ;
   width: 40% ;
+  margin-top:30px;
 }
 #navbar {
   vertical-align: middle;
   float: right;
   width: 60% ;
-  margin-top:40px;
+  margin-top:60px;
 }
