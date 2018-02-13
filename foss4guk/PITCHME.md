@@ -104,7 +104,7 @@ OGC ISO 19115
 
 +++?image=assets/wally.jpg
 
----?image=assets/virtualization_before.png
++++?image=assets/virtualization_before.jpg
 
 ---?image=assets/artisan.jpg
 <!-- .slide: data-background-transition="none" -->
