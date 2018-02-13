@@ -61,7 +61,7 @@ Quite young when compared to the history of GIS
   </div>
   <div id="navbar">
     <ul>
-       <li style="font-size:30px">Cholera analysis by John Snow (1854).</li>
+       <li style="font-size:30px">John Snow's cholera maps (1854).</li>
        <li style="font-size:30px">US NSDI (1994).</li>
        <li style="font-size:30px">INSPIRE (2007).</li>
     </ul>
