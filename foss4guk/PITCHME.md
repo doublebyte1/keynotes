@@ -104,6 +104,14 @@ OGC ISO 19115
 
 +++?image=assets/wally.jpg
 
++++?image=assets/virtualization_before.png
+
+---?image=assets/artisan.jpg
+<!-- .slide: data-background-transition="none" -->
+---?image=assets/artisan2.jpg
+<!-- .slide: data-background-transition="none" -->
+---?image=assets/Docker-Security.jpg&size=auto 90%
+
 
 <!--
 trust
