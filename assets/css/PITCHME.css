@@ -19,10 +19,13 @@ span.fa-byline { color : gray; }
 
 
 #content {
-  float: center ;
+  float: right ;
   width: 40% ;
+  margin-top:40px;
 }
 #navbar {
   vertical-align: middle;
-  float: center;
+  float: right;
+    width: 60% ;
+  margin-top:40px;
 }
