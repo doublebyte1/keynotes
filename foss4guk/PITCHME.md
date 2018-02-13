@@ -60,7 +60,6 @@ Quite young when compared to the history of GIS
     <img src="https://raw.githubusercontent.com/doublebyte1/keynotes/master/assets/800px-Snow-cholera-map-1.jpg">
   </div>
   <div id="navbar">
-
     <ul>
        <li style="font-size:30px">John Snow's cholera maps (1854).</li>
        <li style="font-size:30px">US NSDI (1994).</li>
@@ -95,9 +94,10 @@ OGC ISO 19115
     <img src="https://raw.githubusercontent.com/doublebyte1/keynotes/master/assets/babel.jpg" width="70%">
   </div>
   <div id="navbar">
+    <ul>
        <li style="font-size:20px">Sharing environmental spatial information among public sector organisations.</li>
        <li style="font-size:20px">Public access to spatial information across Europe.</li>
-        <li style="font-size:20px">and assist in policy-making across boundaries.</li>
+      <li style="font-size:20px">and assist in policy-making across boundaries.</li>
     </ul>
   </div>
 </div>
