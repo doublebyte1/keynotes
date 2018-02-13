@@ -79,9 +79,15 @@ Quite young when compared to the history of GIS
 + Client <!-- web, desktop -->
 
 
-+++?image=assets/sdi.png
-
 <!--
+Standards: how we glue these components together; how we do vertical integration
+OGC ISO 19115
+<!--
+
++++?image=assets/sdi-components.png
+-->
+
+
 
 trust
 model presumes that the local
