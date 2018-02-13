@@ -78,8 +78,8 @@ Quite young when compared to the history of GIS
 + Processing Service
 + Client <!-- web, desktop -->
 
-+++
-+++?image=assets/sdi.png&size=auto 90%
+
++++?image=assets/sdi.png
 
 <!--
 
