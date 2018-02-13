@@ -116,7 +116,7 @@ OGC ISO 19115
 ---?image=assets/artisan2.jpg
 <!-- .slide: data-background-transition="none" -->
 ---?image=assets/Docker-Security.jpg&size=auto 90%
-
+<!-- .slide: data-background-transition="none" -->
 
 <!--
 trust
