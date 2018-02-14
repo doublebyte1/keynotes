@@ -196,7 +196,7 @@ It is feasible to have one container per application
 
 ---
 ## Orchestrating Software
-<img src="assets/compose.png" width="50%">
+<img src="assets/compose.png" width="30%">
 
 ---
 ## Providing Servers
