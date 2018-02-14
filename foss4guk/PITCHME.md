@@ -188,8 +188,14 @@ good for virtulizing servers, but do we really want to use it to virtualize soft
 <!-- scaling: hundreds of containers in the same machine
 It is feasible to have one container per application
 -->
+## Providing Software
+<!-- +++?image=assets/docker_icon.png&size=auto 80% -->
+![team](assets/docker_container.jpg)
 
-+++?image=assets/docker_icon.png&size=auto 80%
+---
+## Providing Servers
+![team](assets/docker_machine.png)
+
 
 <!--
 trust
