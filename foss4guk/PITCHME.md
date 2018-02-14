@@ -146,8 +146,8 @@ OGC ISO 19115 -->
 +++
 
 - Take an image of an entire virtual host and launch a new virtual instance from it.
-
-![team](assets/word-image133.png)
+- 
+<img src="assets/word-image133.png" width="80%">
 
 ---
 ## Hypervisor Based Virtualization
