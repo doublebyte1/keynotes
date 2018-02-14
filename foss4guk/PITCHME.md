@@ -132,7 +132,8 @@ OGC ISO 19115 -->
 ---
 ## Virtualization
 
-“The thin piece of software that decouples the OS from the physical bare-metal, and allows us to hedge physical hardware.”
+*The thin piece of software that decouples the OS from the physical bare-metal, and allows us to hedge physical hardware.*
+
 IBM, 1967
 
 <!--
