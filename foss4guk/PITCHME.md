@@ -44,7 +44,8 @@
 ---
 ## Spatial Data Infrastructure
 
-Collection of technologies, policies and institutional arrangements that facilitate the availability of and access to spatial data.
+*Collection of technologies, policies and institutional arrangements that facilitate the availability of and access to spatial data.*
+<p style="text-align:right;">GSDI, 2012</p>
 
 <!--
 GSDI cookbook
@@ -135,17 +136,19 @@ OGC ISO 19115 -->
 *The thin piece of software that decouples the OS from the physical bare-metal, and allows us to hedge physical hardware.*
 <p style="text-align:right;">IBM, 1967</p>
 
+- Take an image of an entire virtual host and launch a new virtual instance from it. |
+
 
 <!--
 - Run an OS on top of another OS.
 - Shared hardware resources.
 - More efficient use of resources.
+- Take an image of an entire virtual host and launching a new virtual instance from it.
 -->
 
 ---
 ## Hypervisor Based Virtualization
 
-- Take an image of an entire virtual host and launching a new virtual instance from it.
 
 
 <!--
