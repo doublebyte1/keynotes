@@ -232,6 +232,7 @@ It is feasible to have one container per application
 ![team](assets/monolithic.png)
 
 <!--
+breaks large software projects into loosely coupled modules, which communicate with each other through REST APIs.
 Applications built as a set of modular components are easier to understand, easier to test, and most importantly easier to maintain
 -->
 
@@ -249,6 +250,10 @@ Lifecycle automation: Individual components are easier to fit into continuous de
 +++?image=assets/docker-ms.png&size=auto 80%
 
 +++?image=assets/docker-compose.png
+
++++?image=assets/matrioska.jpg
+
++++?image=assets/ahead.jpg
 
 <!--
 trust
