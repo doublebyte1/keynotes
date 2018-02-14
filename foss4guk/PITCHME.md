@@ -146,16 +146,16 @@ OGC ISO 19115 -->
 +++
 
 - Take an image of an entire virtual host and launch a new virtual instance from it.
--
-<img src="assets/word-image133.png" width="60%">
+
+![team](assets/word-image133.png)
 
 ---
 ## Hypervisor Based Virtualization
 <!-- vmware 1999, vbox 2007
 - Hardware virtualization
 - OS agnostic
--->
 - Hypervisor sits between the OS and the physical hardware.
+-->
 
 ![team](assets/hypervisor.png)
 
