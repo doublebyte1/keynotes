@@ -134,7 +134,7 @@ OGC ISO 19115 -->
 - Portability |
 - Scalability |
 
----?image=assets/over.jpg
++++?image=assets/over.jpg
 
 ---
 ## Virtualization
