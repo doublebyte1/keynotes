@@ -140,11 +140,12 @@ OGC ISO 19115 -->
 - Run an OS on top of another OS.
 - Shared hardware resources.
 - More efficient use of resources.
-- Take an image of an entire virtual host and launching a new virtual instance from it.
 -->
 
 +++
-
+<!--
+scalability, cloud, automation, Reproduceabiliy
+-->
 - Take an image of an entire virtual host and launch a new virtual instance from it.
 
 ![team](assets/word-image133.png)
@@ -155,9 +156,20 @@ OGC ISO 19115 -->
 - Hardware virtualization
 - OS agnostic
 - Hypervisor sits between the OS and the physical hardware.
+-  performance hit:  memory and cpu managers for a guest operating system and hypervisor
+good for virtulizing servers, but do we really want to use it to virtualize software?
 -->
 
 ![team](assets/hypervisor.png)
+
+---
+## Container Based Virtualization
+<!-- vmware 1999, vbox 2007
+- Software virtualization, done at OS level
+
+-->
+![team](assets/container.png)
+
 
 <!--
 trust
