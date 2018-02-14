@@ -259,7 +259,8 @@ Lifecycle automation: Individual components are easier to fit into continuous de
 
 <!-- TRUST -->
 ---?image=assets/trust.jpg
-- Vertical integration is based on trust. | <!-- trust on the benefits from creating an SDI, and facing the fears related to loose control over the information
+- Vertical integration is based on trust. |
+- <!-- trust on the benefits from creating an SDI, and facing the fears related to loose control over the information -->
 - Outsourcing the location and management of SDIs requires trust. |
 
 <!-- trust on the technology which makes creating and runnning sdis easier, but
