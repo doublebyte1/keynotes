@@ -185,7 +185,7 @@ good for virtulizing servers, but do we really want to use it to virtualize soft
 Docker container 2013
 -->
 
-![team](assets/docker_container.png)
+![team](assets/docker_container.jpg)
 
 
 <!-- docker debut 2013 -->
