@@ -178,6 +178,8 @@ good for virtulizing servers, but do we really want to use it to virtualize soft
 - The Linux kernel's support for namespaces mostly[10] isolates an application's view of the operating environment, including process trees, network, user IDs and mounted file systems, while the kernel's cgroups provide resource limiting, including the CPU, memory, block I/O, and network.
 -->
 
+![team](assets/container.png)
+
 +++
 <!--
 Docker container 2013
