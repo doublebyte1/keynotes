@@ -246,9 +246,9 @@ Applications built as a set of modular components are easier to understand, easi
 Lifecycle automation: Individual components are easier to fit into continuous delivery pipelines and complex deployment scenarios not possible with monoliths.
 -->
 
-+++?image=assets/docker-ms.pngsize=auto 80%
++++?image=assets/docker-ms.png&size=auto 80%
 
-+++?image=assets/docker-compose2.png
++++?image=assets/docker-compose.png
 
 <!--
 trust
