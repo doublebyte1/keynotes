@@ -120,8 +120,6 @@ OGC ISO 19115 -->
 <!-- .slide: data-background-transition="none" -->
 ---?image=assets/artisan2.jpg
 <!-- .slide: data-background-transition="none" -->
----?image=assets/Docker-Security.jpg&size=auto 90%
-<!-- .slide: data-background-transition="none" -->
 
 <!--
 # Can do better?
@@ -135,6 +133,8 @@ OGC ISO 19115 -->
 - Automation  |
 - Portability |
 - Scalability |
+
+---?image=assets/over.jpg
 
 ---
 ## Virtualization
