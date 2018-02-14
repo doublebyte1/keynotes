@@ -181,14 +181,15 @@ good for virtulizing servers, but do we really want to use it to virtualize soft
 ![team](assets/container.png)
 
 +++
-<!--
-Docker container 2013
--->
+<!-- docker debut 2013 -->
 
 ![team](assets/docker_container.jpg)
 
+<!-- scaling: hundreds of containers in the same machine
+It is feasible to have one container per application
+-->
 
-<!-- docker debut 2013 -->
++++?image=assets/docker_icon.png
 
 <!--
 trust
