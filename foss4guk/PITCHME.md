@@ -257,7 +257,10 @@ Lifecycle automation: Individual components are easier to fit into continuous de
 - <font color="#76448a" style="font-weight: bold;">Microservices are not a silver bullet</font> |
 - <font color="#76448a" style="font-weight: bold;">Docker is a young and fast evolving technology</font> |
 
+<!-- TRUST -->
 ---?image=assets/trust.jpg
+- Vertical integration is based on trust. |
+- Outsourcing the location and management of SDIs requires trust.
 
 <!--
 trust
