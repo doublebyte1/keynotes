@@ -136,13 +136,6 @@ OGC ISO 19115 -->
 *The thin piece of software that decouples the OS from the physical bare-metal, and allows us to hedge physical hardware.*
 <p style="text-align:right;">IBM, 1967</p>
 
-+++
-
-- Take an image of an entire virtual host and launch a new virtual instance from it.
-
-![team](assets/word-image133.png)
-
-
 <!--
 - Run an OS on top of another OS.
 - Shared hardware resources.
@@ -150,10 +143,21 @@ OGC ISO 19115 -->
 - Take an image of an entire virtual host and launching a new virtual instance from it.
 -->
 
++++
+
+- Take an image of an entire virtual host and launch a new virtual instance from it.
+
+![team](assets/word-image133.png)
+
 ---
 ## Hypervisor Based Virtualization
+<!-- vmware 1999, vbox 2007
+- Hardware virtualization
+- OS agnostic
+-->
+- Hypervisor sits between the OS and the physical hardware.
 
-
+![team](assets/hypervisor.png)
 
 <!--
 trust
