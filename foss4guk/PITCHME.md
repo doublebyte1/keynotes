@@ -194,11 +194,16 @@ It is feasible to have one container per application
 <!-- +++?image=assets/docker_icon.png&size=auto 80% -->
 <img src="assets/docker_icon.png" width="70%">
 
----
++++
 ## Orchestrating Software
 <img src="assets/compose.png" width="50%">
 
----
++++?image=assets/sdi.png
+<!-- .slide: data-background-transition="fade" -->
++++?image=assets/docker-compose.png
+<!-- .slide: data-background-transition="none" -->
+
++++
 ## Providing Servers
 ![team](assets/docker-machine.png)
 
