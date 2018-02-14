@@ -152,7 +152,7 @@ scalability, cloud, automation, Reproduceabiliy
 
 ---
 ## Hypervisor Based Virtualization
-<!-- vmware 1999, vbox 2007
+<!--
 - Hardware virtualization
 - OS agnostic
 - Hypervisor sits between the OS and the physical hardware.
@@ -163,16 +163,30 @@ good for virtulizing servers, but do we really want to use it to virtualize soft
 ![team](assets/hypervisor.png)
 
 +++
+<!-- vmware 1999, vbox 2007 -->
+
 ![team](assets/hypervisor_examples.png)
 
 ---
 ## Container Based Virtualization
-<!-- vmware 1999, vbox 2007
+<!--
 - Software virtualization, done at OS level
-
+- Each container(well call it guest operating system) shares the same kernel of the base system.
+- provides isolation, but not as much as hypervisor Based
+- it needs to run in linux
+- is much more lightweight
+- The Linux kernel's support for namespaces mostly[10] isolates an application's view of the operating environment, including process trees, network, user IDs and mounted file systems, while the kernel's cgroups provide resource limiting, including the CPU, memory, block I/O, and network.
 -->
-![team](assets/container.png)
 
++++
+<!--
+Docker container 2013
+-->
+
+![team](assets/docker_container.png)
+
+
+<!-- docker debut 2013 -->
 
 <!--
 trust
