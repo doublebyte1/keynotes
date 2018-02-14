@@ -213,11 +213,15 @@ It is feasible to have one container per application
 ## Providing Servers
 ![team](assets/docker-machine.png)
 
-+++?image=assets/virtualization_before.jpg
+## Can we do better?
+
+- What about if we want to provide SDIs at scale?
 
 +++
 ## Meta-System
 ![team](assets/meta-system.png)
+
++++?image=assets/virtualization_before.jpg
 
 <!--
 trust
