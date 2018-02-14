@@ -215,6 +215,10 @@ It is feasible to have one container per application
 
 +++?image=assets/virtualization_before.jpg
 
++++
+## Meta-System
+![team](assets/meta-system.png)
+
 <!--
 trust
 model presumes that the local
