@@ -254,8 +254,8 @@ Lifecycle automation: Individual components are easier to fit into continuous de
 +++?image=assets/matrioska.jpg
 
 +++?image=assets/ahead.jpg
-- Microservices are not a silver Bullet
-- Docker is a young and fast evolving technology
+- <font color="red">Microservices are not a silver bullet</font> |
+- <font color="red">Docker is a young and fast evolving technology</font> |
 
 <!--
 trust
