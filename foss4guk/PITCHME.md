@@ -119,7 +119,7 @@ OGC ISO 19115 -->
 <!-- .slide: data-background-transition="none" -->
 ---?image=assets/artisan2.jpg
 <!-- .slide: data-background-transition="none" -->
-<!-- ---?image=assets/Docker-Security.jpg&size=auto 90% -->
+---?image=assets/Docker-Security.jpg&size=auto 90%
 <!-- .slide: data-background-transition="none" -->
 
 <!--
@@ -129,6 +129,7 @@ OGC ISO 19115 -->
 + Reproduceabiliy
 -->
 
+---
 ## Virtualization
 
 “The thin piece of software that decouples the OS from the physical bare-metal, and allows us to hedge physical hardware.”
@@ -140,9 +141,9 @@ IBM, 1967
 - More efficient use of resources.
 -->
 
+---
 ## Hypervisor Based Virtualization
 
-- 1960's
 - Take an image of an entire virtual host and launching a new virtual instance from it.
 
 
