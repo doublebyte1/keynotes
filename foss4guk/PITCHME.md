@@ -169,6 +169,7 @@ good for virtulizing servers, but do we really want to use it to virtualize soft
 ![team](assets/hypervisor.png)
 
 +++
+## Vmware & VirtualBox
 <!-- vmware 1999, vbox 2007 -->
 
 ![team](assets/hypervisor_examples.png)
@@ -183,10 +184,10 @@ good for virtulizing servers, but do we really want to use it to virtualize soft
 - is much more lightweight
 - The Linux kernel's support for namespaces mostly[10] isolates an application's view of the operating environment, including process trees, network, user IDs and mounted file systems, while the kernel's cgroups provide resource limiting, including the CPU, memory, block I/O, and network.
 -->
-
 ![team](assets/container.png)
 
 +++
+## Docker
 <!-- docker debut 2013 -->
 
 ![team](assets/docker_container.jpg)
