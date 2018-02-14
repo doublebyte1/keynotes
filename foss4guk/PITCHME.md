@@ -213,6 +213,7 @@ It is feasible to have one container per application
 ## Providing Servers
 ![team](assets/docker-machine.png)
 
+---
 ## Can we do better?
 
 - What about if we want to provide SDIs at scale?
