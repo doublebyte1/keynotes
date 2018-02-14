@@ -192,7 +192,7 @@ It is feasible to have one container per application
 -->
 ## Providing Software
 <!-- +++?image=assets/docker_icon.png&size=auto 80% -->
-<img src="assets/docker-icon.png" width="70%">
+<img src="assets/docker_icon.png" width="70%">
 
 ---
 ## Providing Servers
