@@ -189,7 +189,7 @@ good for virtulizing servers, but do we really want to use it to virtualize soft
 It is feasible to have one container per application
 -->
 
-+++?image=assets/docker_icon.png
++++?image=assets/docker_icon.png&size=auto 80%
 
 <!--
 trust
