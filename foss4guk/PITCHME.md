@@ -136,7 +136,11 @@ OGC ISO 19115 -->
 *The thin piece of software that decouples the OS from the physical bare-metal, and allows us to hedge physical hardware.*
 <p style="text-align:right;">IBM, 1967</p>
 
-- Take an image of an entire virtual host and launch a new virtual instance from it. |
++++
+
+- Take an image of an entire virtual host and launch a new virtual instance from it.
+
+![team](assets/word-image133.png)
 
 
 <!--
