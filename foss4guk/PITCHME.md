@@ -225,6 +225,24 @@ It is feasible to have one container per application
 
 +++?image=assets/virtualization_before.jpg
 
+---
+## Microservices Architecture
+
+Decomposes an application into a collection of loosely couple services.
+![team](assets/monolithic.png)
+
+<!--
+Applications built as a set of modular components are easier to understand, easier to test, and most importantly easier to maintain
+-->
+
++++
+## Advantages
+
+- Isolation |
+- Simplicity |
+- Scalability |
+<!-- -developer independence -->
+
 <!--
 trust
 model presumes that the local
