@@ -129,6 +129,12 @@ OGC ISO 19115 -->
 + Speed of Deployment
 + Reproduceabiliy
 -->
+---
+## Can we do better?
+
+- Automation  |
+- Portability |
+- Scalability |
 
 ---
 ## Virtualization
