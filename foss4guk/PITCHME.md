@@ -162,6 +162,9 @@ good for virtulizing servers, but do we really want to use it to virtualize soft
 
 ![team](assets/hypervisor.png)
 
++++
+![team](assets/hypervisor_examples.png)
+
 ---
 ## Container Based Virtualization
 <!-- vmware 1999, vbox 2007
