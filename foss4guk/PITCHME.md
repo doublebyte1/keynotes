@@ -213,6 +213,7 @@ It is feasible to have one container per application
 ## Providing Servers
 ![team](assets/docker-machine.png)
 
++++?image=assets/virtualization_before.jpg
 
 <!--
 trust
