@@ -1,5 +1,5 @@
 # Spatial Data Infrastructures
-### In the era of Docker and Microservices
+### In the age of Docker and Microservices
 +++
 
 # How can we ease the provision of SDIs?
