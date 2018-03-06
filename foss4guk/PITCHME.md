@@ -68,9 +68,7 @@ Data as a Service
   </div>
 </div>
 
-<!--
-Note:
-Quite young when compared to the history of GIS
+<!-- Quite young when compared to the history of GIS
 Software Components
 Catalogue service
 Spatial Data service
