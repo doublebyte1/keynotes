@@ -73,12 +73,12 @@ Quite young when compared to the history of GIS
 
 
 Note:
-## Software Components
-+ Catalogue service
-+ Spatial Data service
-+ Spatial Data repository
-+ Processing Service
-+ Client
+Software Components
+Catalogue service
+Spatial Data service
+Spatial Data repository
+Processing Service
+Client
 Standards: how we glue these components together; how we do vertical integration
 OGC ISO 19115
 
