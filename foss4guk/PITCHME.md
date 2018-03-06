@@ -120,7 +120,7 @@ OGC ISO 19115
 - Scalability |
 
 Note:
-Can do better? Ease of Deployment, Speed of Deployment, Reproduceabiliy.
+Can we do better? Ease of Deployment, Speed of Deployment, Reproduceabiliy.
 
 +++?image=assets/over.jpg
 
@@ -143,6 +143,8 @@ scalability, cloud, automation, Reproduceabiliy, Take an image of an entire virt
 ---
 ## Hypervisor Based Virtualization
 
+![team](assets/hypervisor.png)
+
 Note:
 - Hardware virtualization
 - OS agnostic
@@ -150,13 +152,12 @@ Note:
 -  performance hit:  memory and cpu managers for a guest operating system and hypervisor
 good for virtulizing servers, but do we really want to use it to virtualize software?
 
-![team](assets/hypervisor.png)
-
 +++
 ## Vmware & VirtualBox
-<!-- vmware 1999, vbox 2007 -->
 
 ![team](assets/hypervisor_examples.png)
+
+Note: vmware 1999, vbox 2007
 
 ---
 ## Container Based Virtualization
