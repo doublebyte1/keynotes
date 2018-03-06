@@ -137,8 +137,10 @@ Run an OS on top of another OS, Shared hardware resources, More efficient use of
 +++
 ![team](assets/word-image133.png)
 
+- Take an image of an entire virtual host and launch a new virtual instance from it.
+
 Note:
-scalability, cloud, automation, Reproduceabiliy, Take an image of an entire virtual host and launch a new virtual instance from it.
+scalability, cloud, automation, Reproduceabiliy
 
 ---
 ## Hypervisor Based Virtualization
