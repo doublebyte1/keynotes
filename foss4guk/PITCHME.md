@@ -47,13 +47,11 @@
 *Collection of technologies, policies and institutional arrangements that facilitate the availability of and access to spatial data.*
 <p style="text-align:right;">GSDI, 2012</p>
 
-<!--
+Note:
 GSDI cookbook
-
-+ Data infrastructure implementing a framework of geographic data, metadata, users and tools that are interactively connected in order to use spatial data in an efficient and flexible way.
-
+Data infrastructure implementing a framework of geographic data, metadata, users and tools that are interactively connected in order to use spatial data in an efficient and flexible way.
 Data as a Service
--->
+
 +++
 ## Timeline
 
