@@ -55,9 +55,6 @@ Data as a Service
 +++
 ## Timeline
 
-Note:
-Quite young when compared to the history of GIS
-
 <div id="container">
   <div id="content">
     <img src="https://raw.githubusercontent.com/doublebyte1/keynotes/master/assets/800px-Snow-cholera-map-1.jpg">
@@ -71,8 +68,8 @@ Quite young when compared to the history of GIS
   </div>
 </div>
 
-
 Note:
+Quite young when compared to the history of GIS
 Software Components
 Catalogue service
 Spatial Data service
