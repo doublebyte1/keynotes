@@ -113,10 +113,7 @@ OGC ISO 19115
 <!-- .slide: data-background-transition="none" -->
 
 Note:
-Can do better?
-Ease of Deployment
-Speed of Deployment
-Reproduceabiliy
+Can do better? Ease of Deployment, Speed of Deployment, Reproduceabiliy.
 
 ## Can we do better?
 
@@ -133,9 +130,7 @@ Reproduceabiliy
 <p style="text-align:right;">IBM, 1967</p>
 
 Note:
-- Run an OS on top of another OS.
-- Shared hardware resources.
-- More efficient use of resources.
+Run an OS on top of another OS, Shared hardware resources, More efficient use of resources.
 
 
 +++
