@@ -112,6 +112,7 @@ OGC ISO 19115
 ---?image=assets/artisan2.jpg
 <!-- .slide: data-background-transition="none" -->
 
+---
 ## Can we do better?
 
 - Automation  |
