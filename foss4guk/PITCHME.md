@@ -121,7 +121,7 @@ OGC ISO 19115
 
 - Automation  |
 - Portability |
-- Scalability |
+<!-- - Scalability | -->
 
 Note:
 Can we do better? Ease of Deployment, Speed of Deployment, Reproduceabiliy.
