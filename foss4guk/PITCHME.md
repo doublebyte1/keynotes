@@ -53,6 +53,7 @@ Data infrastructure implementing a framework of geographic data, metadata, users
 Data as a Service
 
 +++
+## Timeline
 
 Note:
 Quite young when compared to the history of GIS
@@ -64,8 +65,6 @@ Processing Service
 Client
 Standards: how we glue these components together; how we do vertical integration
 OGC ISO 19115
-
-## Timeline
 
 <div id="container">
   <div id="content">
