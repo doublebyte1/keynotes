@@ -55,18 +55,6 @@ Data as a Service
 +++
 ## Timeline
 
-<!--
-Note:
-Quite young when compared to the history of GIS
-Software Components
-Catalogue service
-Spatial Data service
-Spatial Data repository
-Processing Service
-Client
-Standards: how we glue these components together; how we do vertical integration
-OGC ISO 19115
--->
 <div id="container">
   <div id="content">
     <img src="https://raw.githubusercontent.com/doublebyte1/keynotes/master/assets/800px-Snow-cholera-map-1.jpg">
@@ -79,6 +67,19 @@ OGC ISO 19115
     </ul>
   </div>
 </div>
+
+<!--
+Note:
+Quite young when compared to the history of GIS
+Software Components
+Catalogue service
+Spatial Data service
+Spatial Data repository
+Processing Service
+Client
+Standards: how we glue these components together; how we do vertical integration
+OGC ISO 19115
+-->
 
 +++?image=assets/sdi-components.png
 <!-- .slide: data-background-transition="none" -->
