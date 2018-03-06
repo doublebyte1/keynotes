@@ -132,11 +132,11 @@ Reproduceabiliy
 *The thin piece of software that decouples the OS from the physical bare-metal, and allows us to hedge physical hardware.*
 <p style="text-align:right;">IBM, 1967</p>
 
-<!--
+Note:
 - Run an OS on top of another OS.
 - Shared hardware resources.
 - More efficient use of resources.
--->
+
 
 +++
 <!--
