@@ -250,6 +250,8 @@ Lifecycle automation: Individual components are easier to fit into continuous de
 - <font color="#76448a" style="font-weight: bold;">Microservices are not a silver bullet</font> |
 - <font color="#76448a" style="font-weight: bold;">Docker is a young and fast evolving technology</font> |
 
++++?image=assets/wave.jpg
+
 <!-- TRUST -->
 ---?image=assets/trust.jpg
 - <font color="#5d6d7e" style="font-weight: bold;">Vertical integration is based on trust.</font> |
