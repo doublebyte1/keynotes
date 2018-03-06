@@ -112,14 +112,14 @@ OGC ISO 19115
 ---?image=assets/artisan2.jpg
 <!-- .slide: data-background-transition="none" -->
 
-Note:
-Can do better? Ease of Deployment, Speed of Deployment, Reproduceabiliy.
-
 ## Can we do better?
 
 - Automation  |
 - Portability |
 - Scalability |
+
+Note:
+Can do better? Ease of Deployment, Speed of Deployment, Reproduceabiliy.
 
 +++?image=assets/over.jpg
 
