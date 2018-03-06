@@ -161,30 +161,33 @@ Note: vmware 1999, vbox 2007
 
 ---
 ## Container Based Virtualization
-<!--
+
+![team](assets/container.png)
+
+Note:
 - Software virtualization, done at OS level
 - Each container(well call it guest operating system) shares the same kernel of the base system.
 - provides isolation, but not as much as hypervisor Based
 - it needs to run in linux
 - is much more lightweight
 - The Linux kernel's support for namespaces mostly[10] isolates an application's view of the operating environment, including process trees, network, user IDs and mounted file systems, while the kernel's cgroups provide resource limiting, including the CPU, memory, block I/O, and network.
--->
-![team](assets/container.png)
 
 +++
 ## Docker
-<!-- docker debut 2013 -->
 
 ![team](assets/docker_container.jpg)
 
-+++
+Note:
+docker debut 2013
 
-<!-- scaling: hundreds of containers in the same machine
-It is feasible to have one container per application
--->
++++
 ## Providing Software
 <!-- +++?image=assets/docker_icon.png&size=auto 80% -->
 <img src="assets/docker_icon.png" width="70%">
+
+Note:
+scaling: hundreds of containers in the same machine
+It is feasible to have one container per application
 
 +++
 ## Orchestrating Software
@@ -216,10 +219,9 @@ It is feasible to have one container per application
 <pr style="font-size:30px">Decomposes an application into a collection of loosely coupled services.
 ![team](assets/monolithic.png)
 
-<!--
+Note:
 breaks large software projects into loosely coupled modules, which communicate with each other through REST APIs.
 Applications built as a set of modular components are easier to understand, easier to test, and most importantly easier to maintain
--->
 
 +++
 ## Advantages
@@ -228,9 +230,9 @@ Applications built as a set of modular components are easier to understand, easi
 - Simplicity |
 - Scalability |
 
-<!-- -developer independence
+Note:
+developer independence
 Lifecycle automation: Individual components are easier to fit into continuous delivery pipelines and complex deployment scenarios not possible with monoliths.
--->
 
 +++?image=assets/docker-ms.png&size=auto 80%
 
@@ -248,18 +250,17 @@ Lifecycle automation: Individual components are easier to fit into continuous de
 <!-- trust on the benefits from creating an SDI, and facing the fears related to loose control over the information -->
 - <font color="#5d6d7e" style="font-weight: bold;">Outsourcing the location and management of SDIs requires trust.</font> |
 
-<!-- trust on the technology which makes creating and runnning sdis easier, but
-facing the fear of loosing control over the information (is not here, its in the cloud); it is managed by a third-party, cannot get hold of
-the complete system
-<!--
-
-trust
+Note:
 model presumes that the local
 government agencies of counties and municipalities
 will share their geographic information freely with
 government agencies of regions, states and federal
 agencies.
+trust on the technology which makes creating and runnning sdis easier, but
+facing the fear of loosing control over the information (is not here, its in the cloud); it is managed by a third-party, cannot get hold of
+the complete system
 
+<!--
 In a phenomenon known widely as vertical
 integration (Burgess 1999), the detailed information
 collected by local agencies should be available to
