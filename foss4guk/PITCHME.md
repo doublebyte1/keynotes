@@ -207,7 +207,7 @@ It is feasible to have one container per application
 
 +++?image=assets/sdi.png
 <!-- .slide: data-background-transition="fade" -->
-+++?image=assets/docker-compose.png
++++?image=assets/docker-compose2.png
 <!-- .slide: data-background-transition="none" -->
 
 +++
