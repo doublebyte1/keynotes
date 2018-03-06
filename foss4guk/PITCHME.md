@@ -31,7 +31,7 @@
 +++
 ## GeoCat
 <!-- I work for geocat-->
-+ Micro-company, based in the NL
++ SME, based in the NL
 + Spatial Data Infrastructures (SDI)
 + FOSS
 
