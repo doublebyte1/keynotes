@@ -1,10 +1,10 @@
 # Spatial Data Infrastructures
 ### In the age of Docker and Microservices
-+++
 
 +++?image=assets/int-womens-day.jpg
 <!-- .slide: data-background-transition="none" -->
 
++++
 # How can we ease the provision of SDIs?
 
 +++?image=assets/journey.jpg&size=auto 90%
