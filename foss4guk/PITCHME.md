@@ -6,7 +6,7 @@
 <!-- .slide: data-background-transition="none" -->
 
 +++
-<pr style="font-size:30px"> How can we ease the provision of SDIs?
+<pr style="font-size:55px"> How can we ease the provision of SDI's?
 
 +++?image=assets/journey.jpg&size=auto 90%
 
