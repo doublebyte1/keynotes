@@ -33,7 +33,7 @@
 ## GeoCat
 <!-- I work for geocat-->
 + SME, based in the NL
-+ Spatial Data Infrastructures (SDI)
++ Spatial Data Infrastructures (SDI's)
 + FOSS
 
 ![team](assets/team.jpg)
