@@ -211,7 +211,7 @@ It is feasible to have one container per application
 ---
 ## Can we do better?
 
-- What about if we want to provide SDIs at scale?
+- <font color="#76448a" style="font-weight: bold;">What if we want to provide SDIs at scale?</font> |
 
 +++
 ## Meta-System
