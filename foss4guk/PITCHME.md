@@ -6,7 +6,7 @@
 <!-- .slide: data-background-transition="none" -->
 
 +++
-# How can we ease the provision of SDIs?
+<pr style="font-size:30px"> How can we ease the provision of SDIs?
 
 +++?image=assets/journey.jpg&size=auto 90%
 
@@ -211,7 +211,7 @@ It is feasible to have one container per application
 ---
 ## Can we do better?
 
-- <font color="#76448a" style="font-weight: bold;">What if we want to provide SDIs at scale?</font> |
+- What if we want to provide SDIs at scale?
 
 +++
 ## Meta-System
@@ -222,7 +222,7 @@ It is feasible to have one container per application
 ---
 ## Microservices Architecture
 
-<pr style="font-size:30px">Decomposes an application into a collection of loosely coupled services.
+Decomposes an application into a collection of loosely coupled services.
 ![team](assets/monolithic.png)
 
 Note:
