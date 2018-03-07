@@ -223,9 +223,9 @@ It is feasible to have one container per application
 ---
 ## Microservices Architecture
 
-<pr style="font-size:30px">Decomposes an application into a collection of loosely coupled services.
-
 ![team](assets/monolithic.png)
+
+<pr style="font-size:20px">Decomposes an application into a collection of loosely coupled services.
 
 Note:
 breaks large software projects into loosely coupled modules, which communicate with each other through REST APIs.
