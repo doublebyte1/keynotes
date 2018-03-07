@@ -206,13 +206,13 @@ It is feasible to have one container per application
 <!-- .slide: data-background-transition="none" -->
 
 +++
-## Providing Servers
+## Provisioning Servers
 ![team](assets/docker-machine.png)
 
 ---
 ## Can we do better?
 
-- What if we want to provide SDI's at scale?
+- What if we want to provision SDI's at scale?
 
 +++
 ## Meta-System
