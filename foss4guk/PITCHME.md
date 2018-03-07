@@ -6,7 +6,8 @@
 <!-- .slide: data-background-transition="none" -->
 
 +++
-<pr style="font-size:100px"> How can we ease the provision of SDI's?
+<!-- <pr style="font-size:100px"> How can we ease the provision of SDI's?-->
+* How can we ease the provision of SDI's?
 
 +++?image=assets/journey.jpg&size=auto 90%
 
@@ -211,7 +212,7 @@ It is feasible to have one container per application
 ---
 ## Can we do better?
 
-- What if we want to provide SDIs at scale?
+- What if we want to provide SDI's at scale?
 
 +++
 ## Meta-System
@@ -256,7 +257,7 @@ Lifecycle automation: Individual components are easier to fit into continuous de
 ---?image=assets/trust.jpg
 - <font color="#5d6d7e" style="font-weight: bold;">Vertical integration is based on trust.</font> |
 <!-- trust on the benefits from creating an SDI, and facing the fears related to loose control over the information -->
-- <font color="#5d6d7e" style="font-weight: bold;">Outsourcing the location and management of SDIs requires trust.</font> |
+- <font color="#5d6d7e" style="font-weight: bold;">Outsourcing the location and management of SDI's requires trust.</font> |
 
 Note:
 model presumes that the local
@@ -264,7 +265,7 @@ government agencies of counties and municipalities
 will share their geographic information freely with
 government agencies of regions, states and federal
 agencies.
-trust on the technology which makes creating and runnning sdis easier, but
+trust on the technology which makes creating and runnning SDI's easier, but
 facing the fear of loosing control over the information (is not here, its in the cloud); it is managed by a third-party, cannot get hold of
 the complete system
 
