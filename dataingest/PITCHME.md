@@ -1,6 +1,6 @@
-# Aqua
+# The Data Ingest API
 
-### A GitPitch Presentation Template
+### A simple Way of Pushing Data into GeoServer
 
 ---
 
