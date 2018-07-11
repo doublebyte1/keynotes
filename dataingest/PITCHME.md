@@ -96,7 +96,16 @@ Prior to annotations, the behavior of the Spring Framework was largely controlle
 <img src="assets/no.png" width="25%">
 
 ---
+## OGP Harvester
+<!-- good example to show the potential of Data Ingest.
+-->
+- Supports scheduling metadata harvesters. <!-- Solr, Geonetwork, CSW metadata nodes as well as direct metadata XML files within a web directory -->
+- Supports different schemas.
+- An organization can create a custom metadata catalog.
+- Supports different schemas.
+<!--  The OGP Harvester supports a variety of metadata formats. It also has an administrative section to manager and register new node services.-->
 
+---
 ## Tips!
 
 <br>
