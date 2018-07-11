@@ -11,4 +11,4 @@ highlight : hybrid
 #logo : assets/image/logo.png
 transition : none
 published : true
-footnote : "GitPitch [ Aqua ] Presentation Template"
+footnote : "The Data Ingest API: A simple Way of Pushing Data into GeoServer"
