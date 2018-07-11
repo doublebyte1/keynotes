@@ -11,7 +11,7 @@
 <!-- - Lead by Tufts University along with Harvard and MIT. |
 #- The Data Ingest API was designed as a component of the OGP | -->
 
-![Logo](assets/logos.png)
+![Logo](assets/logos.png&size=auto 30%)
 
 ---?image=assets/screenshot_ogp.png&size=auto 90%
 
