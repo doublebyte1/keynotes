@@ -86,7 +86,7 @@ Prior to annotations, the behavior of the Spring Framework was largely controlle
 - Scalability. <!-- (robust towards using a large number of datasets) -->
 - Online documentation.
 
-<img src="assets/scalability.png" width="30%">
+<img src="assets/scalability.png" width="50%">
 
 ---
 ## What the Data INGEST API does not provide:

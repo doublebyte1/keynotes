@@ -14,6 +14,12 @@ body {
   background: linear-gradient(to right, #acb6e5, #74ebd5);
 }
 
+/* Remove image borders */
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
+
 .reveal pre {
   width: 100%;
   box-shadow : none;
@@ -74,4 +80,3 @@ body {
 .gp-contact { font-size : 1.4em; }
 
 .gp-download { margin-left: 10px; }
-
