@@ -111,7 +111,9 @@ Prior to annotations, the behavior of the Spring Framework was largely controlle
 - Upload zip archives containing data + related metadata, in a single step. <!--, to GeoServer and Solr.-->
 
 
----?image=assets/docker-compose-dataingest.png&size=auto 100%
+---?image=assets/dataingest1.png&size=auto 100%
+
+---?image=assets/dataingest2.png&size=auto 100%
 
 ---
 ## Tips!
