@@ -116,6 +116,20 @@ Prior to annotations, the behavior of the Spring Framework was largely controlle
 ---?image=assets/dataingest2.png&size=auto 90%
 
 ---
+## Some Implementation Details
+- Asynchronous Requests.
+- Pagination.
+- Cache.
+- Security. <!--(OAuth2) -->
+
+---
+##The REST Interface
+
+The API calls are documented online, using Swagger:
+- http://[YOURHOST]/swagger-ui.html |
+
+
+---
 ## Tips!
 
 <br>
