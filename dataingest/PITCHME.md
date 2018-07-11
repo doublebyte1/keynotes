@@ -51,14 +51,11 @@ Prior to annotations, the behavior of the Spring Framework was largely controlle
 - https://github.com/geosolutions-it/geoserver-manager
 - http://geotools.org/
 
-@title[Geotools Block]
-
-<p><span class="slide-title">Geotools Block</span></p>
-
 ```java
         store = new ShapefileDataStore(shapeURL);
 
-        CoordinateReferenceSystem refSystem = store.getSchema().getGeometryDescriptor()
+        CoordinateReferenceSystem refSystem =
+          store.getSchema().getGeometryDescriptor()
             .getCoordinateReferenceSystem();
 
         String wkt = refSystem.toWKT();
