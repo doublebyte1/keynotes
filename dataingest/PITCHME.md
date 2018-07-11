@@ -139,9 +139,12 @@ The API calls are documented online, using Swagger:
 
 ---
 ## Give it a Try!
-- The data Ingest API was dockerized. <!-- and it can be run from within a container. --!>
-- The whole system can be launched from a docker composition. <!--  (OGP) --!>
+- The data Ingest API was dockerized.
+- The whole system can be launched from a docker composition.
 
+<!-- and it can be run from within a container. --!>
+ <!--  (OGP) --!>
+ 
 https://github.com/OpenGeoportal/Data-Ingest/tree/master/docker
 
 <img src="assets/docker_toolbox_0.png" width="30%">
