@@ -29,6 +29,8 @@ OGP features a modular architecture, assembling loosely coupled services (web se
 - Interacts with an instance of GeoServer, in order to query, upload and download geospatial datasets.
 - The accompanying metadata is uploaded/downloaded to/from the SOLR server.
 
+---
+
 ## A RESTfull Service
 - Technology agnostic -> Microservices.
 
