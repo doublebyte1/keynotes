@@ -83,8 +83,10 @@ Prior to annotations, the behavior of the Spring Framework was largely controlle
 ---
 ## What the Data Ingest API provides:
 - A simple REST interface. <!-- (easy to use & technology agnostic) -->
-- Scaling capabilities. <!-- (robust towards using a large number of datasets) -->
+- Scalability. <!-- (robust towards using a large number of datasets) -->
 - Online documentation.
+
+<img src="assets/scalability.png" width="30%">
 
 ---
 ## What the Data INGEST API does not provide:
