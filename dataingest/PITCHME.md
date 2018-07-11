@@ -56,10 +56,6 @@ Prior to annotations, the behavior of the Spring Framework was largely controlle
 <p><span class="slide-title">Geotools Block</span></p>
 
 ```java
-public String retrieveCoordinateSystem() throws ShapefilePackageException, FactoryException {
-    ShapefileDataStore store = null;
-
-    try {
         final URL shapeURL = new URL("file://" + this.shapefilePath);
 
         store = new ShapefileDataStore(shapeURL);
@@ -73,20 +69,6 @@ public String retrieveCoordinateSystem() throws ShapefilePackageException, Facto
         String strCode = client.getEPSGfromWKT(wkt);
 
         return (strCode != null ? "EPSG:" + strCode : null);
-
-    } catch (final ShapefilePackageException ex) {
-        throw ex;
-    } catch (final Exception ex) {
-        throw new ShapefilePackageException(
-            ShapefilePackageException.Code.INVALID_CONTENT.getCode(),
-            ex.getMessage());
-
-    } finally {
-        if (store != null) {
-            store.dispose();
-        }
-    }
-}
 ```
 
 <!-- Geoserver Manager -- Java library that provides classes to programmatically configure GeoServer through its REST API. -->
