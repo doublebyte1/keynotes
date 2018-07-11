@@ -36,6 +36,10 @@ OGP features a modular architecture, assembling loosely coupled services (web se
 
 <img src="assets/why-microservices-578x470-op.png" width="40%">
 
+---?image=assets/docker-compose-dataingest.png&size=auto 90%
+
+---?code=sample/java/DataIngestApplication.java&lang=java&title=DataIngestApplication.java
+
 ---
 
 ## Tips!
