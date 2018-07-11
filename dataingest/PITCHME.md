@@ -41,9 +41,8 @@ OGP features a modular architecture, assembling loosely coupled services (web se
 <!--
 The Java programming language provided support for annotations from Java 5.0 onward.
 Prior to annotations, the behavior of the Spring Framework was largely controlled through XML configuration
-
----?code=sample/java/DataIngestApplication.java&lang=java&title=DataIngestApplication.java
 -->
+
 ---
 ## Technology Stack
 - Java 8
@@ -69,7 +68,7 @@ public class DataIngestApplication {
 ```
 
 ---
-## Libraries
+## Geo Libraries
 - https://github.com/geosolutions-it/geoserver-manager
 - http://geotools.org/
 
@@ -91,7 +90,18 @@ public class DataIngestApplication {
 
 <!-- - check geometry type
 - various checks in the uploaded shapefile (for instance, validity of CRS)
- --->
+ -->
+
+---
+## What the Data Ingest API provides
+- A simple REST interface (easy to use & technology agnostic)
+- Scaling capabilities (robust towards using a large number of datasets)
+- Online documentation
+
+---
+## What the Data INGEST API does not provide
+- Other interactions with GeoServer, beyond uploading, downloading, unregistering and querying geospatial datasets (for instance, projecting files)
+- Ability to work with raster data
 
 
 
