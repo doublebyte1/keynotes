@@ -36,7 +36,7 @@ OGP features a modular architecture, assembling loosely coupled services (web se
 
 <img src="assets/why-microservices-578x470-op.png" width="40%">
 
----?image=assets/docker-compose-dataingest.png&size=auto 90%
+---?image=assets/docker-compose-dataingest.png&size=auto 100%
 
 <!--
 The Java programming language provided support for annotations from Java 5.0 onward.
@@ -104,7 +104,14 @@ Prior to annotations, the behavior of the Spring Framework was largely controlle
 - An organization can create a custom metadata catalog.
 <!--  The OGP Harvester supports a variety of metadata formats. It also has an administrative section to manager and register new node services.-->
 
+---
+## OGP Harvester + Data Ingest API
 
+- Browse layers.
+- Upload zip archives containing data + related metadata, in a single step. <!--, to GeoServer and Solr.-->
+
+
+---?image=assets/docker-compose-dataingest.png&size=auto 100%
 
 ---
 ## Tips!
