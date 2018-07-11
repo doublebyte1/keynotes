@@ -149,6 +149,35 @@ The API calls are documented online, using Swagger:
 ![Video](https://player.vimeo.com/video/278685324)
 
 ---
+## The Team
+
+<table class="GeneratedTable">
+  <tbody>
+    <tr>
+      <td>pic</td>
+      <td>pic</td>
+      <td>pic</td>
+      <td>pic</td>
+      <td>pic</td>
+    </tr>
+    <tr>
+      <td>Joana Simoes</td>
+      <td>Patrick Florance</td>
+      <td>Christopher Barnett</td>
+      <td>Jose Garcia</td>
+      <td>Antonio Cerciello</td>
+    </tr>
+    <tr>
+      <td>joana@doublebyte.net</td>
+      <td>Patrick.Florance@tufts.edu</td>
+      <td>email</td>
+      <td>antonio.cerciello@geocat.net</td>
+    </tr>
+  </tbody>
+</table>
+
+
+---
 ## Tips!
 
 <br>
