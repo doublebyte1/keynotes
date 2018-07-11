@@ -50,7 +50,6 @@ Prior to annotations, the behavior of the Spring Framework was largely controlle
 - Spring Boot
 
 ```java
-@SuppressWarnings("checkstyle:hideutilityclassconstructor")
 @SpringBootApplication
 @EnableCaching
 @RestController
