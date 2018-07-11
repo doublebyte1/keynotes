@@ -154,7 +154,7 @@ The API calls are documented online, using Swagger:
 <table class="GeneratedTable">
   <tbody>
     <tr>
-      <td><img src="me_foss4guk_square.jpg" height="125px"></td>
+      <td><img src="assets/me_foss4guk_square.jpg" height="125px"></td>
       <td>pic</td>
       <td>pic</td>
       <td>pic</td>
