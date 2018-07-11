@@ -113,7 +113,7 @@ Prior to annotations, the behavior of the Spring Framework was largely controlle
 
 ---?image=assets/dataingest1.png&size=auto 90%
 
----?image=assets/dataingest2.png&size=auto 90%
+---?image=assets/dataingest2.png&size=auto 80%
 
 ---
 ## Some Implementation Details
