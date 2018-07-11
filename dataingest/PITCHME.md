@@ -155,8 +155,8 @@ The API calls are documented online, using Swagger:
   <tbody>
     <tr>
       <td><img src="https://raw.githubusercontent.com/doublebyte1/keynotes/master/assets/me.jpg" height="125" /> </td>
+      <td><img src="http://as.tufts.edu/images/newsMapquest.jpg" height="125" /></td>
       <td><img src="http://2017.foss4g.org/images/loc_barnett.png" height="125" /></td>
-      <td>pic</td>
       <td>pic</td>
       <td>pic</td>
     </tr>
