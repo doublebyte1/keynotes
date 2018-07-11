@@ -146,7 +146,7 @@ The API calls are documented online, using Swagger:
 
 ---
 <iframe src="https://player.vimeo.com/video/278685324" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/278685324">The Data Ingest API</a> from <a href="https://vimeo.com/user81877398">Joana Simoes</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/278685324">The Data Ingest API</a>.</p>
 
 ---
 ## Tips!
