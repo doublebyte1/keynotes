@@ -144,7 +144,7 @@ The API calls are documented online, using Swagger:
 
 <img src="assets/docker_toolbox_0.png" width="30%">
 
----?video=https://vimeo.com/278685324
+---?video=http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
 
 ---
 ## Tips!
