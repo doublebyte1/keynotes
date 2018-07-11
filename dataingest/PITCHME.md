@@ -38,7 +38,65 @@ OGP features a modular architecture, assembling loosely coupled services (web se
 
 ---?image=assets/docker-compose-dataingest.png&size=auto 90%
 
+<!--
+The Data Ingest API is a written in Java (8), and it uses Spring Boot.
+The Java programming language provided support for annotations from Java 5.0 onward.
+Prior to annotations, the behavior of the Spring Framework was largely controlled through XML configuration
+-->
+
 ---?code=sample/java/DataIngestApplication.java&lang=java&title=DataIngestApplication.java
+
+---
+## Libraries
+- https://github.com/geosolutions-it/geoserver-manager
+- http://geotools.org/
+
+@title[Geotools Block]
+
+<p><span class="slide-title">Geotools Block</span></p>
+
+```java
+public String retrieveCoordinateSystem() throws ShapefilePackageException, FactoryException {
+    ShapefileDataStore store = null;
+
+    try {
+        final URL shapeURL = new URL("file://" + this.shapefilePath);
+
+        store = new ShapefileDataStore(shapeURL);
+
+        CoordinateReferenceSystem refSystem = store.getSchema().getGeometryDescriptor()
+            .getCoordinateReferenceSystem();
+
+        String wkt = refSystem.toWKT();
+
+        EPSGClient client = new EPSGClient();
+        String strCode = client.getEPSGfromWKT(wkt);
+
+        return (strCode != null ? "EPSG:" + strCode : null);
+
+    } catch (final ShapefilePackageException ex) {
+        throw ex;
+    } catch (final Exception ex) {
+        throw new ShapefilePackageException(
+            ShapefilePackageException.Code.INVALID_CONTENT.getCode(),
+            ex.getMessage());
+
+    } finally {
+        if (store != null) {
+            store.dispose();
+        }
+    }
+}
+```
+
+<!-- Geoserver Manager -- Java library that provides classes to programmatically configure GeoServer through its REST API. -->
+<!-- Geotools   Java library that provides tools for geospatial data. -->
+
+<!-- - check geometry type
+- various checks in the uploaded shapefile (for instance, validity of CRS)
+ --->
+
+
 
 ---
 
