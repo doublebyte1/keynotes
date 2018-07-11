@@ -123,11 +123,12 @@ Prior to annotations, the behavior of the Spring Framework was largely controlle
 - Security. <!--(OAuth2) -->
 
 ---
-##The REST Interface
+## The REST Interface
 
 The API calls are documented online, using Swagger:
 - http://[YOURHOST]/swagger-ui.html |
 
+---?image=assets/swagger.png&size=auto 90%
 
 ---
 ## Tips!
