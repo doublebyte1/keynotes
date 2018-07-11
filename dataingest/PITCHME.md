@@ -93,7 +93,7 @@ Prior to annotations, the behavior of the Spring Framework was largely controlle
 - Other interactions with GeoServer. <!--, beyond uploading, downloading, unregistering and querying geospatial datasets (for instance, projecting files) ; ex: layer groups, styles, workspaces, data stores -->
 - Ability to work with raster data.
 
-
+<img src="assets/no.png" width="50%">
 
 ---
 
