@@ -34,7 +34,7 @@ OGP features a modular architecture, assembling loosely coupled services (web se
 ## A RESTfull Service
 - Technology agnostic -> Microservices.
 
-<img src="assets/why-microservices-578x470-op.png" width="50%">
+<img src="assets/why-microservices-578x470-op.png" width="40%">
 
 ---
 
