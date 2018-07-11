@@ -135,7 +135,15 @@ The API calls are documented online, using Swagger:
 
 - http://[YOURHOST]/v2/api-docs
 
-<img src="assets/lovejson.png" width="50%">
+<img src="assets/lovejson.png" width="30%">
+
+---
+## Give it a Try!
+- The data Ingest API was dockerized and it can be run from within a container.
+- The whole system (OGP) can be launched from a docker composition.
+
+<img src="assets/docker_toolbox_0.png" width="30%">
+
 
 ---
 ## Tips!
