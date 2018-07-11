@@ -22,6 +22,8 @@
 OGP features a modular architecture, assembling loosely coupled services (web server, database, search engine). It also features a rich web client, which enables exploring the datasets through their metadata.
 -->
 
+---
+
 ## The Data Ingest API
 - Loosely coupled service, which extends the OGP suite with data managing capabilities.
 - Interacts with an instance of GeoServer, in order to query, upload and download geospatial datasets.
