@@ -56,8 +56,6 @@ Prior to annotations, the behavior of the Spring Framework was largely controlle
 <p><span class="slide-title">Geotools Block</span></p>
 
 ```java
-        final URL shapeURL = new URL("file://" + this.shapefilePath);
-
         store = new ShapefileDataStore(shapeURL);
 
         CoordinateReferenceSystem refSystem = store.getSchema().getGeometryDescriptor()
@@ -67,8 +65,6 @@ Prior to annotations, the behavior of the Spring Framework was largely controlle
 
         EPSGClient client = new EPSGClient();
         String strCode = client.getEPSGfromWKT(wkt);
-
-        return (strCode != null ? "EPSG:" + strCode : null);
 ```
 
 <!-- Geoserver Manager -- Java library that provides classes to programmatically configure GeoServer through its REST API. -->
