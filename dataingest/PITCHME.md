@@ -131,6 +131,13 @@ The API calls are documented online, using Swagger:
 ---?image=assets/swagger.png&size=auto 90%
 
 ---
+## JSON version
+
+- http://[YOURHOST]/v2/api-docs
+
+<img src="assets/lovejson.png" width="50%">
+
+---
 ## Tips!
 
 <br>
