@@ -150,11 +150,11 @@ The API calls are documented online, using Swagger:
 
 ---
 ## The Team
-<img src="assets/me_foss4guk_square.jpg" height="125">
+
 <table class="GeneratedTable">
   <tbody>
     <tr>
-      <td></td>
+      <td> <img src="assets/me_foss4guk_square.jpg" height="125"> </td>
       <td>pic</td>
       <td>pic</td>
       <td>pic</td>
