@@ -144,7 +144,9 @@ The API calls are documented online, using Swagger:
 
 <img src="assets/docker_toolbox_0.png" width="30%">
 
----?video=http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
+---
+<iframe src="https://player.vimeo.com/video/278685324" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/278685324">The Data Ingest API</a> from <a href="https://vimeo.com/user81877398">Joana Simoes</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ---
 ## Tips!
