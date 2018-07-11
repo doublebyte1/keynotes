@@ -81,15 +81,15 @@ Prior to annotations, the behavior of the Spring Framework was largely controlle
  -->
 
 ---
-## What the Data Ingest API provides
-- A simple REST interface (easy to use & technology agnostic)
-- Scaling capabilities (robust towards using a large number of datasets)
-- Online documentation
+## What the Data Ingest API provides:
+- A simple REST interface. <!-- (easy to use & technology agnostic) -->
+- Scaling capabilities. <!-- (robust towards using a large number of datasets) -->
+- Online documentation.
 
 ---
-## What the Data INGEST API does not provide
-- Other interactions with GeoServer, beyond uploading, downloading, unregistering and querying geospatial datasets (for instance, projecting files)
-- Ability to work with raster data
+## What the Data INGEST API does not provide:
+- Other interactions with GeoServer. <!--, beyond uploading, downloading, unregistering and querying geospatial datasets (for instance, projecting files) ; ex: layer groups, styles, workspaces, data stores -->
+- Ability to work with raster data.
 
 
 
