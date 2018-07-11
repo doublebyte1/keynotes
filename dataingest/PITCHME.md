@@ -39,12 +39,35 @@ OGP features a modular architecture, assembling loosely coupled services (web se
 ---?image=assets/docker-compose-dataingest.png&size=auto 90%
 
 <!--
-The Data Ingest API is a written in Java (8), and it uses Spring Boot.
 The Java programming language provided support for annotations from Java 5.0 onward.
 Prior to annotations, the behavior of the Spring Framework was largely controlled through XML configuration
--->
 
 ---?code=sample/java/DataIngestApplication.java&lang=java&title=DataIngestApplication.java
+-->
+---
+## Technology Stack
+- Java 8
+- Spring Boot
+
+```java
+@SuppressWarnings("checkstyle:hideutilityclassconstructor")
+@SpringBootApplication
+@EnableCaching
+@RestController
+@EnableAutoConfiguration
+public class DataIngestApplication {
+    /**
+     * This is the main method which runs the web application.
+     *
+     * @param args Unused.
+     * @throws Exception General exception
+     */
+
+    public static void main(final String[] args) throws Exception {
+        final ConfigurableApplicationContext context = SpringApplication
+            .run(DataIngestApplication.class, args);
+    }
+```
 
 ---
 ## Libraries
