@@ -9,9 +9,6 @@
 - A collaboratively developed, open source, federated, social and technical **framework**.
 - **Rapidly** document, **discover**, preview, and retrieve, **curated** geospatial **data** from multiple repositories.
 
-
-- Collaboratively developed, open source, federated web application.
-- Rapidly discover, preview, and retrieve geospatial data from multiple organizations.
 <!-- - Lead by Tufts University along with Harvard . |
 #- The Data Ingest API was designed as a component of the OGP | -->
 
