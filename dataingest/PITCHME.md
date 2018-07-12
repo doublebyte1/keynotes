@@ -174,6 +174,13 @@ The API calls are documented online, using Swagger:
       <td>jose.garcia@geocat.net</td>
       <td>antonio.cerciello@geocat.net</td>
     </tr>
+    <tr>
+      <td>@fa[twitter gp-contact](@doublebyte1)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>@fa[twitter gp-contact](@PascalLike)</td>
+    </tr>
   </tbody>
 </table>
 
