@@ -191,7 +191,7 @@ The API calls are documented online, using Swagger:
   </tbody>
 </table>
 
----?image=assets/left-red@2x.png&position=left&size=auto 30%
+---?image=assets/left-red@2x.png&position=left&size=auto 50%
 
 The source code for this project is available on Github, under a GPL v3 license:
 - https://github.com/OpenGeoportal/Data-Ingest
