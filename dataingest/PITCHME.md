@@ -14,16 +14,16 @@
 
 <img src="assets/logos2.png" width="30%">
 
----?image=assets/screenshot_ogp.png&size=auto 90%
-
 ---
 ## The OGP mission?
 
 - Core members are universities with large geospatial data collections and diverse infrastructures.
 - Work together to develop open source software, to share metadata and data (via OGC services), and to identify best practices.
 
+---?image=assets/screenshot_ogp.png&size=auto 90%
 
----?image=assets/ogp_architecture.png&size=auto 90%
+
+---?image=assets/ogp_architecture2.png&size=auto 90%
 
 <!--
 OGP features a modular architecture, assembling loosely coupled services (web server, database, search engine). It also features a rich web client, which enables exploring the datasets through their metadata.
