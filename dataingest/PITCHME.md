@@ -176,7 +176,7 @@ The API calls are documented online, using Swagger:
     </tr>
     <tr>
       <td>@fa[twitter gp-contact](@doublebyte1)</td>
-      <td></td>
+      <td>@fa[twitter gp-contact](@pflomaps)</td>
       <td></td>
       <td></td>
       <td>@fa[twitter gp-contact](@PascalLike)</td>
