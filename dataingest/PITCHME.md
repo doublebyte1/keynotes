@@ -184,7 +184,7 @@ The API calls are documented online, using Swagger:
   </tbody>
 </table>
 
----?image=assets/left-red@2x.png
+---?image=assets/left-red@2x.png&size=auto 70%
 
 ---
 ## Tips!
