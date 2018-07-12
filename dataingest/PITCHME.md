@@ -12,7 +12,7 @@
 #- The Data Ingest API was designed as a component of the OGP | -->
 
 
-<img src="assets/logos.png" width="30%">
+<img src="assets/logos2.png" width="30%">
 
 ---?image=assets/screenshot_ogp.png&size=auto 90%
 
