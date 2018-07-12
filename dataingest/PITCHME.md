@@ -12,10 +12,16 @@
 <!-- - Lead by Tufts University along with Harvard . |
 #- The Data Ingest API was designed as a component of the OGP | -->
 
-
 <img src="assets/logos2.png" width="30%">
 
 ---?image=assets/screenshot_ogp.png&size=auto 90%
+
+---
+## The OGP mission?
+
+- Core members are universities with large geospatial data collections and diverse infrastructures.
+- Work together to develop open source software, to share metadata and data (via OGC services), and to identify best practices.
+
 
 ---?image=assets/ogp_architecture.png&size=auto 90%
 
