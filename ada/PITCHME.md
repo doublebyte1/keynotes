@@ -19,9 +19,9 @@
   </div>
 </div>
 
-+++?image=assets/adalovelace.jpg
++++?image=assets/adalovelace.jpg&size=auto 80%
 
-+++?image=assets/delawen.jpeg
++++?image=assets/delawen.jpeg&size=auto 80%
 
 +++?image=assets/virtualization_before.jpg
 
