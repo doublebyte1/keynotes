@@ -19,7 +19,40 @@
   </div>
 </div>
 
----
++++
+## Ada lovelace
+<!-- I work for geocat-->
++ SME, based in the NL
++ Spatial Data Infrastructures (SDI's)
++ FOSS
+
+![team](assets/team.jpg)
+
++++
+## Maria Arias de Reyna
+<!-- I work for geocat-->
++ SME, based in the NL
++ Spatial Data Infrastructures (SDI's)
++ FOSS
+
+![team](assets/team.jpg)
+
++++
+## Sherly Sandberg
+<!-- I work for geocat-->
++ SME, based in the NL
++ Spatial Data Infrastructures (SDI's)
++ FOSS
+
+![team](assets/team.jpg)
+
++++
+
+
+
+
+
+
 ## SDI
 
 ![team](assets/sdi.png)
