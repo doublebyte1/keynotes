@@ -35,12 +35,9 @@
 
 +++?image=assets/flowchart.jpeg
 
-+++?image=assets/impostor.jpg
-
 +++?image=assets/storytelling-efectivobw.jpg
 
 ---
-
 ## Don't be too Hard on Yourself
 
 - You don't need to be perfect
