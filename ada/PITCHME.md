@@ -21,7 +21,7 @@
 
 +++?image=assets/adalovelace.jpg
 
-+++?image=assets/delawen.jpg
++++?image=assets/delawen.jpeg
 
 +++?image=assets/virtualization_before.jpg
 
