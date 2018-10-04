@@ -25,7 +25,7 @@
 
 +++?image=assets/sheryl.jpg&size=auto 80%
 
-+++?image=assets/storytelling-efectivo.jpg
++++?image=assets/storytelling-efectivobw.jpg
 
 
 ---?image=assets/artisan.jpg
