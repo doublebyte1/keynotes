@@ -29,7 +29,7 @@
 
 
 
- -->
+
 
 ---?image=assets/artisan.jpg
 <!-- .slide: data-background-transition="none" -->
