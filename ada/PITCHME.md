@@ -27,27 +27,16 @@
 
 +++?image=assets/storytelling-efectivobw.jpg
 
-
----?image=assets/artisan.jpg
-<!-- .slide: data-background-transition="none" -->
----?image=assets/artisan2.jpg
-<!-- .slide: data-background-transition="none" -->
----?image=assets/Docker-Security.jpg&size=auto 90%
-
 ---
-## Why Docker?
+## Let's talk about the Impostor Syndrome
 
-- Automation  |
-- Portability |
-- Scalability |
+- Impostor Syndrome is a pervasive feeling of self-doubt, insecurity, or fraudulence despite often overwhelming evidence to the contrary.
+- It strikes smart, successful individuals.
 
-<!--
-Infrastructure as code
-Build once, ship anywhere
-- Rapid deployment
-- Portability across machines
-- Modularity
--->
++++?image=assets/flowchart.jpeg
+
++++?image=assets/impostor.jpg
+
 
 +++
 
