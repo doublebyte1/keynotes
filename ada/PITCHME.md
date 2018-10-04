@@ -23,7 +23,7 @@
 
 +++?image=assets/delawen.jpeg&size=auto 80%
 
-+++?image=assets/sheryl.png&size=auto 80%
++++?image=assets/sheryl.jpg&size=auto 80%
 
 
 
