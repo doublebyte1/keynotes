@@ -1,5 +1,5 @@
-# Micro-services through Docker
-### Tales from a Journey
+# Leaning in
+### My Journey through the Tech World
 
 +++?image=assets/journey.jpg&size=auto 90%
 
