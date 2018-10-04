@@ -1,17 +1,23 @@
 # Leaning in
 ### My Journey through the Tech World
-
-+++?image=assets/journey.jpg&size=auto 90%
-
 ---
 
 ## Introduction
-
-+ Micro-company, based in the NL
-+ Spatial Data Infrastructures (SDI)
-+ FOSS
-
-![team](assets/team.jpg)
+<!-- Who am I?-->
+<div id="container">
+  <div id="content">
+    <img src="https://raw.githubusercontent.com/doublebyte1/keynotes/master/assets/pasta_fresca.jpg">
+  </div>
+  <div id="navbar">
+    <ul>
+       <li style="font-size:30px">Founder Heartcode Labs.</li>
+       <li style="font-size:30px">Technical Lead at Starlab.</li>
+       <li style="font-size:30px">OSGeo charter member.</li>
+       <li style="font-size:30px">Honorary research associate at CASA-UCL.</li>
+       <li style="font-size:30px">Lecturer at BTS.</li>
+    </ul>
+  </div>
+</div>
 
 ---
 ## SDI
