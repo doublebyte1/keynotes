@@ -38,7 +38,7 @@
 +++?image=assets/storytelling-efectivobw.jpg
 
 ---?image=assets/ask.jpg
-<!-- .slide: data-background-transition="none" -->
+@transition[none]
 ---?image=assets/ask2.jpg
 
 ---
