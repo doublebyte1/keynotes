@@ -45,13 +45,15 @@
 - You don't need to be perfect. |
 - Learn to say "No". |
 
-<iframe src="https://giphy.com/embed/wofftnAdDtx4s" width="480" height="318" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p></p>
+<iframe src="https://giphy.com/embed/npUpB306c3EStRK6qP" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ---
 ## Don't be to Afraid to Fail
 
 - The "No" is guaranteed. |
 - "Fail fast, fail often." |
+
+<iframe src="https://giphy.com/embed/Ub8XEam5vXbMY" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p></p>
 
 ---
 ## Find a Mentor
