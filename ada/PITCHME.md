@@ -40,7 +40,7 @@
 ---?image=assets/storytelling-efectivobw.jpg
 
 ---
-## Lean In
+## Lean In @fa[group]
 
  - To be assertive, to move toward a leading, rather than a following, role. |
 
