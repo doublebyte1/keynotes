@@ -37,6 +37,10 @@
 
 +++?image=assets/storytelling-efectivobw.jpg
 
+---?image=assets/ask.jpg
+<!-- .slide: data-background-transition="none" -->
+---?image=assets/ask2.jpg
+
 ---
 ## Don't be too Hard on Yourself
 
