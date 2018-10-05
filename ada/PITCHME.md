@@ -30,7 +30,7 @@
 ---
 ## Let's talk about the Impostor Syndrome
 
-- Impostor Syndrome is a pervasive feeling of self-doubt, insecurity, or fraudulence despite often overwhelming evidence to the contrary.  |
+- Pervasive feeling of self-doubt, insecurity, or fraudulence despite often overwhelming evidence to the contrary.  |
 - It strikes smart, successful individuals.  |
 
 +++?image=assets/flowchart.jpeg
