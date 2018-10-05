@@ -45,7 +45,7 @@
 - You don't need to be perfect. |
 - Learn to say "No". |
 
-<iframe src="https://giphy.com/embed/wofftnAdDtx4s" width="480" height="318" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mrw-front-rthedonald-wofftnAdDtx4s">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/wofftnAdDtx4s" width="480" height="318" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p></p>
 
 ---
 ## Don't be to Afraid to Fail
