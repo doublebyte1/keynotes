@@ -39,6 +39,11 @@
 
 ---?image=assets/storytelling-efectivobw.jpg
 
+---
+## Lean In
+
+ - To be assertive, to move toward a leading, rather than a following, role. |
+
 ---?image=assets/ask.jpg
 
 ---
