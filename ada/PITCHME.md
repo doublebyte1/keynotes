@@ -35,7 +35,7 @@
 
 +++?image=assets/flowchart.jpeg
 
-+++?image=assets/storytelling-efectivobw.jpg
+---?image=assets/storytelling-efectivobw.jpg
 
 ---?image=assets/ask.jpg
 @transition[none]
