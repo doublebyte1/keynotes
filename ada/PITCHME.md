@@ -58,7 +58,7 @@
 
 - Or be a mentor. |
 
-<img src="assets/mentor.jpeg" width="30%">
+<img src="assets/mentor.jpg" width="30%">
 
 ---
 ## Bond
