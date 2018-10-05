@@ -46,7 +46,7 @@
 
 ---?image=assets/ask.jpg
 
-+++?image=assets/cut.jpg&auto 50%
++++?image=assets/cut.jpg&auto 30%
 
 ---
 ## Don't be too Hard on Yourself
