@@ -54,7 +54,7 @@
 - You don't need to be perfect. |
 - Learn to say "No". |
 
-<iframe src="https://giphy.com/embed/npUpB306c3EStRK6qP" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/npUpB306c3EStRK6qP" width="420" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ---
 ## Don't be to Afraid to Fail
