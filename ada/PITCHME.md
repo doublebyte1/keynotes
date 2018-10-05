@@ -42,8 +42,10 @@
 ---
 ## Don't be too Hard on Yourself
 
-- You don't need to be perfect
-- Learn to say "No"
+- You don't need to be perfect |
+- Learn to say "No" |
+
++++?image=assets/overwork.jpeg&size=auto 90%
 
 ---
 ## Don't be to Afraid to Fail
