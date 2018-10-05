@@ -65,11 +65,12 @@
 ---
 ## Bond
 
+<img src="assets/WIG_Speakers.jpg" width="60%">
+
 ---
 
 # Thank You!
-## I would love to hear your thoughts
 
 * twitter -> @doublebyte
 * github -> @doublebyte1
-* blog -> doublebyte.net
+* blog -> https://doublebyte.net
