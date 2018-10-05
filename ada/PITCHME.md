@@ -1,4 +1,4 @@
-# Leaning in
+# Leaning in @fa[rocket]
 ### My Journey through the Tech World
 
 +++?image=assets/journey.jpg&size=auto 90%
