@@ -40,6 +40,7 @@
 ---
 ## Lean In
 
+@transition[none slide]
 ---?image=assets/ask.jpg
 @transition[none slide]
 ---?image=assets/ask2.jpg
