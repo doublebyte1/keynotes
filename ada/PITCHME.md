@@ -37,13 +37,7 @@
 
 ---?image=assets/storytelling-efectivobw.jpg
 
----
-## Lean In
-
-@transition[none none]
 ---?image=assets/ask.jpg
-@transition[none none]
----?image=assets/ask2.jpg
 
 ---
 ## Don't be too Hard on Yourself
