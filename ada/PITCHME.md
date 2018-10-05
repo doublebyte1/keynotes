@@ -42,16 +42,16 @@
 ---
 ## Don't be too Hard on Yourself
 
-- You don't need to be perfect |
-- Learn to say "No" |
+- You don't need to be perfect. |
+- Learn to say "No". |
 
 <img src="assets/overwork.jpeg" width="30%">
 
 ---
 ## Don't be to Afraid to Fail
 
-- the "No" is guaranteed.
-- Fail often, fail fast
+- The "No" is guaranteed. |
+- "Fail fast, fail often."" |
 
 ---
 ## Find a Mentor
