@@ -53,7 +53,7 @@
 - The "No" is guaranteed. |
 - "Fail fast, fail often." |
 
-<iframe src="https://giphy.com/embed/Ub8XEam5vXbMY" width="420" height="420" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p></p>
+<iframe src="https://giphy.com/embed/Ub8XEam5vXbMY" width="360" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p></p>
 
 ---
 ## Find a Mentor
