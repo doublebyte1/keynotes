@@ -45,7 +45,7 @@
 - You don't need to be perfect |
 - Learn to say "No" |
 
-+++?image=assets/overwork.jpeg&size=auto 90%
+<img src="assets/overwork.jpeg" width="70%">
 
 ---
 ## Don't be to Afraid to Fail
