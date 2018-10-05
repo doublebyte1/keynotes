@@ -41,7 +41,7 @@
 ## Lean In
 
 ---?image=assets/ask.jpg
-@transition[none]
+@transition[none none]
 ---?image=assets/ask2.jpg
 
 ---
