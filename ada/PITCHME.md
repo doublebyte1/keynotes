@@ -51,12 +51,14 @@
 ## Don't be to Afraid to Fail
 
 - The "No" is guaranteed. |
-- "Fail fast, fail often."" |
+- "Fail fast, fail often." |
 
 ---
 ## Find a Mentor
 
-- and be a mentor.
+- Or be a mentor. |
+
+<img src="assets/mentor.jpeg" width="30%">
 
 ---
 ## Bond
