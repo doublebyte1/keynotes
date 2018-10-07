@@ -17,6 +17,10 @@
 
 span.fa-byline { color : gray; }
 
+.textleft{
+  text-align: left;
+}
+
 
 #content {
   float: right ;
