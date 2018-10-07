@@ -38,9 +38,9 @@
 ---?image=assets/storytelling-efectivobw.jpg
 
 ---
-## Lean In @fa[group]
+## Lean In @fa[venus]
 
- - To be assertive, to move toward a leading, rather than a following, role. @fa[venus] |
+ - To be assertive, to move toward a leading, rather than a following, role. |
 
 ---?image=assets/ask.jpg
 
