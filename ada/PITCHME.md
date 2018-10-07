@@ -20,7 +20,7 @@
 </div>
 
 +++?image=assets/adalovelace.jpg
-## Ada Lovelace
+## @color[orange](Ada Lovelace)
 
 +++?image=assets/delawen.jpeg&size=auto 80%
 ## María Arias de Reyna
