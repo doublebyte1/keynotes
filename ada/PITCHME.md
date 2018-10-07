@@ -42,17 +42,17 @@
 
  - To be assertive, to move toward a leading, rather than a following, role. |
 
+@transition[zoom-in fade-out]
 ---?image=assets/ask.jpg
 
 
 
 +++?image=assets/conclusions.jpg
-@transition[zoom-in fade-out]
+@transition[zoom-out fade-out]
 # @color[orange](Lessons Learned)
 
 
 ---
-@transition[zoom-out fade-out]
 ## Don't be too Hard on Yourself
 
 - Choose excellence over perfection. |
