@@ -2,7 +2,7 @@
 ### My Journey through the Tech World
 
 ---
-## Introduction
+## Introduction  @fa[bullhorn fa-lime]
 <!-- Who am I?-->
 <div id="container">
   <div id="content">
