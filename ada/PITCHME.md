@@ -40,7 +40,7 @@
 ---
 ## Lean In @fa[group]
 
- - To be assertive, to move toward a leading, rather than a following, role. |
+ - To be assertive, to move toward a leading, rather than a following, role. @fa[venus] |
 
 ---?image=assets/ask.jpg
 
@@ -49,7 +49,7 @@
 ---
 ## Don't be too Hard on Yourself
 
-- You don't need to be perfect. |
+- Choose excellence over perfection. |
 - Learn to say "No". |
 
 <iframe src="https://giphy.com/embed/npUpB306c3EStRK6qP" width="420" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
