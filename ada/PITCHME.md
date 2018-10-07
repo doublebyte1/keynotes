@@ -47,10 +47,12 @@
 
 
 +++?image=assets/conclusions.jpg
+@transition[zoom-in fade-out]
 # @color[orange](Lessons Learned)
 
 
 ---
+@transition[zoom-out fade-out]
 ## Don't be too Hard on Yourself
 
 - Choose excellence over perfection. |
