@@ -45,7 +45,7 @@
 ---?image=assets/ask.jpg
 
 +++?image=assets/conclusions.jpg
-## Lessons Learned
+## @color[orange](Lessons Learned)
 
 ---
 ## Don't be too Hard on Yourself
