@@ -64,7 +64,7 @@
 <iframe src="https://giphy.com/embed/Ub8XEam5vXbMY" width="360" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p></p>
 
 ---?image=assets/mentor.jpg
-## @css[textleft](Find a Mentor)
+### @css[textleft](Find a Mentor)
 
 ---
 ## Bond
