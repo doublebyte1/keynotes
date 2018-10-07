@@ -28,7 +28,7 @@
 +++?image=assets/storytelling-efectivobw.jpg
 
 ---
-## Let's talk about the Impostor Syndrome @fa[mortar-board fa-lime]
+## Let's talk about the Impostor Syndrome @fa[mortar-board fa-peach]
 
 - Pervasive feeling of self-doubt, insecurity, or fraudulence despite often overwhelming evidence to the contrary.  |
 - It strikes smart, successful individuals.  |
