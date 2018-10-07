@@ -45,7 +45,8 @@
 ---?image=assets/ask.jpg
 
 +++?image=assets/conclusions.jpg
-# @color[orange](Lessons Learned) @fa[lightbulb fa-peach]
+# @color[orange](Lessons Learned)
+@fa[lightbulb fa-peach]
 
 ---
 ## Don't be too Hard on Yourself
