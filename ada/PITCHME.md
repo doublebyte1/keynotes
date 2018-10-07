@@ -20,10 +20,13 @@
 </div>
 
 +++?image=assets/adalovelace.jpg&size=auto 80%
+## Ada Lovelace
 
 +++?image=assets/delawen.jpeg&size=auto 80%
+## María Arias de Reyna
 
 +++?image=assets/sheryl.jpg&size=auto 80%
+## Sheryl Sandberg
 
 +++?image=assets/storytelling-efectivobw.jpg
 
