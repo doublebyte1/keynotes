@@ -69,7 +69,7 @@
 ---
 ## Bond
 
-<img src="assets/WIG_Speakers.jpg" width="60%">
+![bond](assets//WIG_Speakers.jpg)
 
 ---
 
