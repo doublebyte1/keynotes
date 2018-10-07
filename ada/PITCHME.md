@@ -20,13 +20,13 @@
 </div>
 
 +++?image=assets/adalovelace.jpg
-## @color[orange](Ada Lovelace)
+## @color[white](Ada Lovelace)
 
 +++?image=assets/delawen.jpeg&size=auto 80%
-## María Arias de Reyna
+## @color[white](María Arias de Reyna)
 
 +++?image=assets/sheryl.jpg&size=auto 80%
-## Sheryl Sandberg
+## @color[white](Sheryl Sandberg)
 
 +++?image=assets/storytelling-efectivobw.jpg
 
