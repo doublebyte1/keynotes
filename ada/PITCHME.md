@@ -1,4 +1,4 @@
-# Leaning in @fa[rocket]
+# Leaning in @fa[rocket fa-lime]
 ### My Journey through the Tech World
 
 ---
