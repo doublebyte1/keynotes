@@ -42,13 +42,9 @@
 
  - To be assertive, to move toward a leading, rather than a following, role. |
 
-@transition[zoom-in fade-out]
 ---?image=assets/ask.jpg
 
-
-
 +++?image=assets/conclusions.jpg
-@transition[zoom-out fade-out]
 # @color[orange](Lessons Learned)
 
 
@@ -67,12 +63,8 @@
 
 <iframe src="https://giphy.com/embed/Ub8XEam5vXbMY" width="360" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p></p>
 
----
+---?image=assets/mentor.jpg
 ## Find a Mentor
-
-- Or be a mentor. |
-
-<img src="assets/mentor.jpg" width="60%">
 
 ---
 ## Bond
