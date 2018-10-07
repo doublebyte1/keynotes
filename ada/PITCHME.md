@@ -28,7 +28,7 @@
 +++?image=assets/storytelling-efectivobw.jpg
 
 ---
-## Let's talk about the Impostor Syndrome @fa[mortar-board]
+## Let's talk about the Impostor Syndrome @fa[mortar-board fa-lime]
 
 - Pervasive feeling of self-doubt, insecurity, or fraudulence despite often overwhelming evidence to the contrary.  |
 - It strikes smart, successful individuals.  |
@@ -38,7 +38,7 @@
 ---?image=assets/storytelling-efectivobw.jpg
 
 ---
-## Lean In @fa[venus]
+## Lean In @fa[venus fa-lime]
 
  - To be assertive, to move toward a leading, rather than a following, role. |
 
