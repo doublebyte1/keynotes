@@ -44,9 +44,12 @@
 
 ---?image=assets/ask.jpg
 
-+++?image=assets/conclusions.jpg
-## @color[orange](Lessons Learned)
+@transition[zoom-in fade-out]
 
++++?image=assets/conclusions.jpg
+# @color[orange](Lessons Learned)
+
+@transition[zoom-out fade-out]
 
 ---
 ## Don't be too Hard on Yourself
