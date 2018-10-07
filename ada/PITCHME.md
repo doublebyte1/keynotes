@@ -46,7 +46,7 @@
 
 +++?image=assets/conclusions.jpg
 # @color[orange](Lessons Learned)
-@fa[lightbulb]
+@fa[venus]
 
 ---
 ## Don't be too Hard on Yourself
