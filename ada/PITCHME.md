@@ -19,7 +19,7 @@
   </div>
 </div>
 
-+++?image=assets/adalovelace.jpg&size=auto 80%
++++?image=assets/adalovelace.jpg
 ## Ada Lovelace
 
 +++?image=assets/delawen.jpeg&size=auto 80%
