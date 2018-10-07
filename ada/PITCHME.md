@@ -53,7 +53,7 @@
 
 - Choose excellence over perfection. |
 
-![fail](https://giphy.com/embed/npUpB306c3EStRK6qP)
+<iframe src="https://giphy.com/embed/npUpB306c3EStRK6qP" width="420" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ---
 ## Don't be to Afraid to Fail
