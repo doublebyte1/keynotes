@@ -75,7 +75,7 @@
 
 ---
 
-# Thank You! @fa[heart]
+# Thank You! @fa[heart fa-lime]
 
 * twitter -> @doublebyte
 * github -> @doublebyte1
