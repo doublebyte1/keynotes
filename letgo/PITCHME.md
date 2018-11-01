@@ -1,4 +1,4 @@
----?image=assets/picasso.jpeg&position=left&size=25% 100%
+---?image=assets/picasso.jpeg&position=left&size=25% 50%
 
 @title[Get Ready]
 
