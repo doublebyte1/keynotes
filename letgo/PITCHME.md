@@ -11,7 +11,7 @@
 <br>
 <br>
 ## Challenging the Gender Bias
-### My Journey as a Woman @fa[venus fa-orange] in a Tech Career
+### My Journey as a Woman @fa[venus] in a Tech Career
 
 ---
 
