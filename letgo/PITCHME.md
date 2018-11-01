@@ -1,4 +1,16 @@
----?image=assets/journey.jpg&opacity=20
+---?image=assets/journey.jpg&&size=55% 100%
+
+@title[Get Ready]
+
+
+#### @size[0.6em](Get ready for some)
+
+<br>
+
+## @color[#e49436](Git)Pitch
+#### Presentation @fa[magic] @color[#e49436](Magic)
+
+---
 
 # Challenging the Gender Bias @fa[venus]
 ## My Journey as a Woman in a Tech Career
