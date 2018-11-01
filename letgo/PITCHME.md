@@ -1,4 +1,4 @@
----?image=assets/esher1.jpg&opacity=90
+---?image=assets/esher1.jpeg&opacity=90
 
 @title[Get Ready]
 
