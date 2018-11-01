@@ -10,8 +10,8 @@
 <br>
 <br>
 <br>
-## Challenging the Gender Bias
-### My Journey as a Woman @fa[venus] in a Tech Career
+## @color[#008080](Challenging the Gender Bias)
+### @color[#008080](My Journey as a Woman) @fa[venus fa-orange] @color[#008080](in a Tech Career)
 
 ---
 
