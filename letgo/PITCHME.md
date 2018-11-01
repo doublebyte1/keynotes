@@ -1,7 +1,5 @@
 ---?image=assets/journey.jpg
 
-@title[Get Ready]
-
 
 <br>
 <br>
