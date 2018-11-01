@@ -1,4 +1,4 @@
----?image=assets/journey.jpg&opacity=40
+---?image=assets/journey.jpg&opacity=20
 
 # Challenging the Gender Bias @fa[venus]
 ## My Journey as a Woman in a Tech Career
