@@ -1,7 +1,7 @@
 ---?image=assets/esher2.jpeg
 
-# @color[fa-orange](Challenging the Gender Bias) @fa[venus fa-white]
-### @color[fa-orange](My Journey as a Woman in a Tech Career)
+# Challenging the Gender Bias @fa[venus fa-white]
+### My Journey as a Woman in a Tech Career
 
 ---
 ## Introduction  @fa[bullhorn fa-lime]
