@@ -1,4 +1,4 @@
-theme : night
+theme : simple
 slide-number : true
 theme-override : assets/css/PITCHME.css
 footnote : Joana Simoes - https://heartcodelabs.com
