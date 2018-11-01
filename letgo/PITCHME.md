@@ -1,4 +1,4 @@
----?image=assets/journey.jpeg
+---?image=assets/journey.jpg
 
 @title[Get Ready]
 
