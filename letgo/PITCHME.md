@@ -1,6 +1,6 @@
 ---?image=assets/esher2.jpeg
 
-# Challenging the Gender Bias @fa[venus]
+# Challenging the Gender Bias @fa[venus fa-lime]
 ### My Journey as a Woman in a Tech Career
 
 ---
