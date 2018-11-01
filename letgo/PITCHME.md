@@ -2,7 +2,7 @@
 
 @title[Get Ready]
 
-#### @size[0.6em](Joana Simoes - Heartcode Labs)
+
 <br>
 <br>
 <br>
