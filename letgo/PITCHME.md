@@ -3,12 +3,11 @@
 @title[Get Ready]
 
 
-#### @size[0.6em](Get ready for some)
-
+<br>
 <br>
 
-## @color[#e49436](Git)Pitch
-#### Presentation @fa[magic] @color[#e49436](Magic)
+## @color[#e49436]Challenging the Gender Bias
+#### My Journey as a Woman @fa[venus] in a @color[#e49436](Tech Career)
 
 ---
 
