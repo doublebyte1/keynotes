@@ -11,10 +11,9 @@
 ### @color[white](Challenging the Gender Bias)
 #### @color[orange](My Journey as a Woman) @fa[venus fa-white] @color[orange](in a Tech Career)
 
----
 
-# Challenging the Gender Bias @fa[venus]
-## My Journey as a Woman in a Tech Career
++++?image=assets/impostor.jpeg
+
 
 ---
 ## Introduction  @fa[bullhorn fa-lime]
