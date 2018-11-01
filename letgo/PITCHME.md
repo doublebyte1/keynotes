@@ -8,8 +8,8 @@
 <br>
 <br>
 <br>
-## Challenging the Gender Bias
-### My Journey as a Woman @fa[venus] in a Tech Career
+### Challenging the Gender Bias
+#### My Journey as a Woman @fa[venus] in a Tech Career
 
 ---
 
