@@ -1,4 +1,4 @@
----?image=assets/esher3.jpeg
+---?image=assets/esher2.jpeg
 
 @title[Get Ready]
 
@@ -10,8 +10,8 @@
 <br>
 <br>
 <br>
-## @color[black](Challenging the Gender Bias)
-### @color[black](My Journey as a Woman) @fa[venus fa-orange] @color[black](in a Tech Career)
+## Challenging the Gender Bias
+### My Journey as a Woman @fa[venus] in a Tech Career
 
 ---
 
