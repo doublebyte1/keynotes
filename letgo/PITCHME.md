@@ -1,5 +1,7 @@
-# Leaning in @fa[rocket fa-lime]
-### My Journey through the Tech World
+---?image=assets/esher1.jpeg
+
+# Challenging the Gender Bias @fa[venus fa-peach]
+### My Journey as a Woman in a Tech Career
 
 ---
 ## Introduction  @fa[bullhorn fa-lime]
