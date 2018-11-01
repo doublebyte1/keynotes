@@ -1,4 +1,4 @@
----?image=assets/journey.jpg&&size=55% 100%
+---?image=assets/journey.jpg&opacity=90
 
 @title[Get Ready]
 
