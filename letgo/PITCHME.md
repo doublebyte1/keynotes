@@ -1,4 +1,4 @@
----?image=assets/esher2.jpeg
+---?image=assets/journey.jpeg
 
 @title[Get Ready]
 
