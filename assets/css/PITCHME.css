@@ -38,3 +38,9 @@ span.fa-byline { color : gray; }
   width: 60% ;
   margin-top:30px;
 }
+
+#right-block {
+  float: right ;
+  width: 40% ;
+  margin-top:30px;
+}
