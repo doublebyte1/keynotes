@@ -1,6 +1,6 @@
 ---?image=assets/journey.jpg
 
-#### @color[white] (@size[0.6em](Get ready for some) 0
+#### @color[white] (Get ready for some) 
 <br>
 <br>
 <br>
