@@ -37,8 +37,13 @@ Let's Talk About the Impostor Syndrome.
 * Having to Prove Yourself
 * Credit Given to Someone Else
 
-+++?image=assets/duck.jpeg
-## Being Ignored
+---
+<div id="left-block">
+  <img src="https://raw.githubusercontent.com/doublebyte1/keynotes/dev/assets/duck.jpg">
+</div>
+<div id="right-block">
+Being Ignored
+</div>
 
 
 
