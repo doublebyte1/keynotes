@@ -24,6 +24,7 @@ Let's Talk About the Impostor Syndrome.
 ---?image=assets/diagram1.jpg
 <!-- .slide: data-background-transition="none" -->
 ---?image=assets/diagram2.jpg
+<!-- .slide: data-background-transition="none" -->
 
 
 
