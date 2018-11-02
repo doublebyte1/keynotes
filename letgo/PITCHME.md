@@ -16,7 +16,7 @@
   <img src="https://raw.githubusercontent.com/doublebyte1/keynotes/dev/assets/cat.jpeg">
 </div>
 <div id="right-block">
-Let's Talk About the Impostor Syndrome
+Let's Talk About the Impostor Syndrome.
 </div>
 
 
