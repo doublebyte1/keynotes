@@ -1,6 +1,6 @@
 ---?image=assets/journey.jpg
 
-A talk by Joana Simoes
+#### @color[white] (@size[0.6em](Get ready for some) 0
 <br>
 <br>
 <br>
