@@ -13,9 +13,10 @@
 
 <div id="container">
   <div id="content">
-    +++?image=assets/cat.jpeg&size=70% 80%  </div>
+    <img src="https://raw.githubusercontent.com/doublebyte1/keynotes/dev/assets/cat.jpeg">
+  </div>
   <div id="navbar">
-    # Let's Talk About the Impostor Syndrome
+    <h1>Let's Talk About the Impostor Syndrome</h1>
   </div>
 </div>
 
