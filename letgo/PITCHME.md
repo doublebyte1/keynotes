@@ -21,6 +21,10 @@ Let's Talk About the Impostor Syndrome.
 
 +++?image=assets/flowchart.jpeg&size=auto 80%
 
+---?image=assets/diagram1.jpg
+<!-- .slide: data-background-transition="none" -->
+---?image=assets/diagram2.jpg
+
 
 
 ---
