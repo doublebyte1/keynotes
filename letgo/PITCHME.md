@@ -11,9 +11,17 @@
 ### @color[white](Challenging the Gender Bias)
 #### @color[orange](My Journey as a Woman) @fa[venus fa-white] @color[orange](in a Tech Career)
 
+<div id="container">
+  <div id="content">
+    +++?image=assets/cat.jpeg&size=70% 80%  </div>
+  <div id="navbar">
+    # Let's Talk About the Impostor Syndrome
+  </div>
+</div>
 
-+++?image=assets/cat.jpeg&size=70% 80%
-# Let's Talk About the Impostor Syndrome
+
+
+
 
 ---
 ## Introduction  @fa[bullhorn fa-lime]
