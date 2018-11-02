@@ -19,6 +19,9 @@
 Let's Talk About the Impostor Syndrome.
 </div>
 
++++?image=assets/flowchart.jpeg
+
+
 
 ---
 ## Introduction  @fa[bullhorn fa-lime]
