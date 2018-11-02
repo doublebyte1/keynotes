@@ -12,7 +12,7 @@
 #### @color[orange](My Journey as a Woman) @fa[venus fa-white] @color[orange](in a Tech Career)
 
 
-+++?image=assets/impostor3.jpeg
++++?image=assets/impostor4.jpeg
 
 
 ---
