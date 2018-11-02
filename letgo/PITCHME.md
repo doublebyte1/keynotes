@@ -30,7 +30,7 @@ Let's Talk About the Impostor Syndrome.
 +++?image=assets/bombers.jpg
 
 ---
-## Gender Biased Environment @fa[venus-mars]
+## Gender Bias @fa[venus-mars]
 
 * Being Ignored
 * Having to Prove Yourself
