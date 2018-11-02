@@ -13,11 +13,7 @@
 
 ---
 #### Let's Talk About the Impostor Syndrome
-<div id="container">
-  <div id="content">
-    <img src="https://raw.githubusercontent.com/doublebyte1/keynotes/dev/assets/cat.jpeg">
-  </div>
-</div>
+<img src="https://raw.githubusercontent.com/doublebyte1/keynotes/dev/assets/cat.jpeg">
 
 
 
