@@ -45,6 +45,30 @@ Let's Talk About the Impostor Syndrome.
 ---
 ## Credit Given to Someone Else
 
+---
+## What Can We Do?
+
+* Acknowledge the Bias
+* Speak Up
+* Be Supportive
+
++++?image=assets/landscape.jpg
+@quote[Be the Change you want to see in the World.]
+
+
+
+---
+## Bond
+
+![bond](assets//WIG_Speakers.jpg)
+
+---
+## Be Proactive
+
+![bond](assets//WIG_Speakers.jpg)
+
+
+
 
 
 +++?image=assets/hostile.jpeg
