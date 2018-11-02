@@ -30,7 +30,6 @@ Let's Talk About the Impostor Syndrome.
 +++?image=assets/bombers.jpg
 
 ---
-
 ## Gender Biased Environment
 
 * Being Ignored
@@ -38,13 +37,13 @@ Let's Talk About the Impostor Syndrome.
 * Credit Given to Someone Else
 
 ---
-<div id="left-block">
-  <img src="https://raw.githubusercontent.com/doublebyte1/keynotes/dev/assets/duck.jpeg">
-</div>
-<div id="right-block">
-Being Ignored
-</div>
+## Being Ignored
 
+---
+## Having to Prove Yourself
+
+---
+## Credit Given to Someone Else
 
 
 
