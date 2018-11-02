@@ -30,7 +30,7 @@ Let's Talk About the Impostor Syndrome.
 +++?image=assets/bombers.jpg
 
 ---
-## Gender Biased Environment
+## Gender Biased Environment @fa[venus-mars]
 
 * Being Ignored
 * Having to Prove Yourself
@@ -58,7 +58,7 @@ Let's Talk About the Impostor Syndrome.
 ## Support Each Other
 
 ---
-@quote[Be the Change you want to see in the World.]
+@quote[Be the Change you want to see in the World.](Ghandi)
 
 ![bond](assets//WIG_Speakers.jpg)
 
