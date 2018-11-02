@@ -32,3 +32,9 @@ span.fa-byline { color : gray; }
   width: 60% ;
   margin-top:60px;
 }
+
+#left-block {
+  float: left ;
+  width: 60% ;
+  margin-top:30px;
+}

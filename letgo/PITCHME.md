@@ -13,8 +13,9 @@
 
 ---
 #### Let's Talk About the Impostor Syndrome
-<img src="https://raw.githubusercontent.com/doublebyte1/keynotes/dev/assets/cat.jpeg" height="70%">
-
+<div id="left-block">
+  <img src="https://raw.githubusercontent.com/doublebyte1/keynotes/dev/assets/cat.jpeg">
+</div>
 
 
 
