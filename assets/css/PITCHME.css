@@ -36,11 +36,11 @@ span.fa-byline { color : gray; }
 #left-block {
   float: left ;
   width: 80% ;
-  margin-top:30px;
+  margin-top:0px;
 }
 
 #right-block {
   float: right ;
   width: 20% ;
-  margin-top:30px;
+  margin-top:0px;
 }
