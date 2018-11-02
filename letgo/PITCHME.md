@@ -1,6 +1,6 @@
 ---?image=assets/journey.jpg
 
-#### (@size[0.6em](A Talk by Joana Simoes)
+#### @size[0.6em](A Talk by Joana Simoes)
 <br>
 <br>
 <br>
