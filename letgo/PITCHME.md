@@ -1,6 +1,6 @@
 ---?image=assets/journey.jpg
 
-
+A talk by Joana Simoes
 <br>
 <br>
 <br>
