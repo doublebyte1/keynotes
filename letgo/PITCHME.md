@@ -60,7 +60,7 @@ Let's Talk About the Impostor Syndrome.
 ---
 @quote[Be the Change you want to see in the World.](Ghandi)
 
-![bond](assets//WIG_Speakers.jpg)
+![bond](assets//WIG_Speakers.jpg&size=auto 80%)
 
 ---
 # Thank You! @fa[heart]
