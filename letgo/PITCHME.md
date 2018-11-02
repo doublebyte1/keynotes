@@ -13,7 +13,7 @@
 
 
 +++?image=assets/cat.jpeg
-#### Let's Talk About the Impostor Syndrome
+Let's Talk About the Impostor Syndrome&size=55 80%
 
 ---
 ## Introduction  @fa[bullhorn fa-lime]
