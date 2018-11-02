@@ -11,12 +11,11 @@
 ### @color[white](Challenging the Gender Bias)
 #### @color[orange](My Journey as a Woman) @fa[venus fa-white] @color[orange](in a Tech Career)
 
+---
+## Let's Talk About the Impostor Syndrome
 <div id="container">
   <div id="content">
     <img src="https://raw.githubusercontent.com/doublebyte1/keynotes/dev/assets/cat.jpeg">
-  </div>
-  <div id="navbar">
-    <h1>Let's Talk About the Impostor Syndrome</h1>
   </div>
 </div>
 
