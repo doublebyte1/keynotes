@@ -58,9 +58,9 @@ Let's Talk About the Impostor Syndrome.
 ## Support Each Other
 
 ---
-@quote[Be the Change you want to see in the World.](Ghandi)
+@quote[Be the Change you want to see in the World.]
 
-![bond](assets//WIG_Speakers.jpg&size=auto 80%)
+![bond](assets//WIG_Speakers.jpg)
 
 ---
 # Thank You! @fa[heart]
