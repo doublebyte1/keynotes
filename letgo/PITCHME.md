@@ -12,7 +12,7 @@
 #### @color[orange](My Journey as a Woman) @fa[venus fa-white] @color[orange](in a Tech Career)
 
 
-+++?image=assets/cat.jpeg&size=55% 100%
++++?image=assets/cat.jpeg&size=70% 80%
 Let's Talk About the Impostor Syndrome
 
 ---
