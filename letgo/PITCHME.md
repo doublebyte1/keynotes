@@ -28,7 +28,7 @@ Let's Talk About the Impostor Syndrome.
 
 ---
 
-# Gender Biased @fa[venus fa-white] Environment
+## Gender Biased @fa[venus fa-white] Environment
 
 * Being Ignored
 * Having to Prove Yourself
