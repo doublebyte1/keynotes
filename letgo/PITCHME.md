@@ -29,11 +29,9 @@ Let's Talk About the Impostor Syndrome.
 
 +++?image=assets/bombers.jpg
 
-+++?image=assets/hostile.jpeg
-
 ---
 
-## Gender Biased @fa[venus fa-white] Environment
+## Gender Biased Environment
 
 * Being Ignored
 * Having to Prove Yourself
@@ -42,7 +40,7 @@ Let's Talk About the Impostor Syndrome.
 
 
 
-
++++?image=assets/hostile.jpeg
 
 ---
 ## Introduction  @fa[bullhorn fa-lime]
