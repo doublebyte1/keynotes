@@ -52,7 +52,7 @@ Let's Talk About the Impostor Syndrome.
 * Speak Up
 * Be Supportive
 
-+++?image=assets/landscape.jpg
++++?image=assets/landscape.jpeg
 @quote[Be the Change you want to see in the World.]
 
 
