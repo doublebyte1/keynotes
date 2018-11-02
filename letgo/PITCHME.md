@@ -63,7 +63,7 @@ Let's Talk About the Impostor Syndrome.
 ![bond](assets//WIG_Speakers.jpg)
 
 ---
-# Thank You! @fa[heart fa-lime]
+# Thank You! @fa[heart]
 
 * twitter -> @doublebyte
 * github -> @doublebyte1
