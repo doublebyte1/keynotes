@@ -37,6 +37,9 @@ Let's Talk About the Impostor Syndrome.
 * Having to Prove Yourself
 * Credit Given to Someone Else
 
++++?image=assets/duck.jpg
+## Being Ignored
+
 
 
 
