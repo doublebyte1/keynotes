@@ -26,6 +26,17 @@ Let's Talk About the Impostor Syndrome.
 ---?image=assets/diagram2.jpg
 <!-- .slide: data-background-transition="none" -->
 
+---
+
+# Gender Biased @fa[venus fa-white] Environment
+
+* Being Ignored
+* Having to Prove Yourself
+* Credit Given to Someone Else
+
+
+
+
 
 
 ---
