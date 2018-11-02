@@ -39,7 +39,7 @@ Let's Talk About the Impostor Syndrome.
 
 ---
 <div id="left-block">
-  <img src="https://raw.githubusercontent.com/doublebyte1/keynotes/dev/assets/duck.jpg">
+  <img src="https://raw.githubusercontent.com/doublebyte1/keynotes/dev/assets/duck.jpeg">
 </div>
 <div id="right-block">
 Being Ignored
