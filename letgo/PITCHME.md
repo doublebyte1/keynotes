@@ -19,7 +19,7 @@
 Let's Talk About the Impostor Syndrome.
 </div>
 
-+++?image=assets/flowchart.jpeg
++++?image=assets/flowchart.jpeg&size=auto 80%
 
 
 
