@@ -29,7 +29,6 @@ Let's Talk About the Impostor Syndrome.
 
 +++?image=assets/impostor.jpeg
 
-+++?image=assets/bombers.jpg
 
 ---
 ## Gender Bias @fa[venus-mars]
