@@ -48,13 +48,13 @@ Let's Talk About the Impostor Syndrome.
 ---
 # What Can We Do?
 
----
+---?image=assets/bias.jpg
 ## Acknowledge the Bias
 
----
+---?image=assets/ask.jpg
 ## Speak Up
 
----
+---?image=support/bias.jpeg
 ## Support Each Other
 
 ---
