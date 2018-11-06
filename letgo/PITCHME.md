@@ -68,7 +68,7 @@ Let's Talk About the Impostor Syndrome.
 <br>
 ## Speak Up
 
----?image=assets/support2.jpeg
+---?image=assets/support.jpeg
 <br>
 <br>
 <br>
