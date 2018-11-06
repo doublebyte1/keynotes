@@ -56,7 +56,7 @@ Let's Talk About the Impostor Syndrome.
 <br>
 <br>
 <br>
-## Acknowledge the Bias
+## @color[white](Acknowledge the Bias)
 
 ---?image=assets/ask.jpg
 <br>
@@ -76,7 +76,7 @@ Let's Talk About the Impostor Syndrome.
 <br>
 <br>
 <br>
-## Support Each Other
+## @color[white](Support Each Other)
 
 ---
 @quote[Be the Change you want to see in the World.]
