@@ -52,10 +52,10 @@ Let's Talk About the Impostor Syndrome.
 ## @color[white](Acknowledge the Bias)
 
 ---?image=assets/ask.jpg
-## Speak Up
+## @color[white](Speak Up)
 
 ---?image=assets/support.jpeg
-## Support Each Other
+## @color[white](Support Each Other)
 
 ---
 @quote[Be the Change you want to see in the World.]
