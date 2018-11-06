@@ -48,14 +48,14 @@ Let's Talk About the Impostor Syndrome.
 ---
 # What Can We Do?
 
----?image=assets/bias.jpg
-## @color[white](Acknowledge the Bias)
+---?image=assets/bias2.jpg
+## @color[orange](Acknowledge the Bias)
 
----?image=assets/ask.jpg
-## @color[white](Speak Up)
+---?image=assets/ask3.jpg
+## @color[orange](Speak Up)
 
----?image=assets/support.jpeg
-## @color[white](Support Each Other)
+---?image=assets/support2.jpeg
+## @color[orange](Support Each Other)
 
 ---
 @quote[Be the Change you want to see in the World.]
