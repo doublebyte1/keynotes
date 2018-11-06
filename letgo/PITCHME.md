@@ -54,7 +54,7 @@ Let's Talk About the Impostor Syndrome.
 ---?image=assets/ask.jpg
 ## Speak Up
 
----?image=support/support.jpeg
+---?image=assets/support.jpeg
 ## Support Each Other
 
 ---
