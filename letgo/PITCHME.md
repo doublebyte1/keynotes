@@ -49,7 +49,7 @@ Let's Talk About the Impostor Syndrome.
 # What Can We Do?
 
 ---?image=assets/bias.jpg
-## @color[white] Acknowledge the Bias
+## @color[white](Acknowledge the Bias)
 
 ---?image=assets/ask.jpg
 ## Speak Up
