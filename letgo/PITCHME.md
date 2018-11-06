@@ -66,7 +66,7 @@ Let's Talk About the Impostor Syndrome.
 <br>
 <br>
 <br>
-## Speak Up
+## @color[white](Speak Up)
 
 ---?image=assets/support.jpeg
 <br>
