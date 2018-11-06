@@ -27,7 +27,7 @@ Let's Talk About the Impostor Syndrome.
 +++?image=assets/diagram2.jpg
 <!-- .slide: data-background-transition="none" -->
 
-+++?image=assets/impostor.jpeg
++++?image=assets/womenintech.jpg
 
 
 ---
