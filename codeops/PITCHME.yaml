@@ -1,0 +1,4 @@
+theme : white
+slide-number : true
+theme-override : assets/css/PITCHME.css
+footnote : Joana Simoes - https://doublebyte.net
