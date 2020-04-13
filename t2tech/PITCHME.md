@@ -1,15 +1,6 @@
 # Transitioning into Tech
 ### Why and How
 
-<!--+++?image=assets/int-womens-day.jpg-->
-+++?image=assets/banner_iwd_8_march_en_2.png
-<!-- .slide: data-background-transition="none" -->
-
-+++
-<!-- <pr style="font-size:100px"> How can we ease the provision of SDI's?-->
-* How can we ease the provision of SDI's?
-
-+++?image=assets/journey.jpg&size=auto 90%
 
 ---
 ## Introduction
@@ -20,9 +11,9 @@
   </div>
   <div id="navbar">
     <ul>
-       <li style="font-size:30px">Board member of GSDI.</li>
+       <li style="font-size:30px">CTO & instructor at CodeOp.</li>
        <li style="font-size:30px">Deputy president of OSGeo-pt.</li>
-       <li style="font-size:30px">OSGeo advocate.</li>
+       <li style="font-size:30px">OSGeo charter member.</li>
        <li style="font-size:30px">Honorary research associate at CASA-UCL.</li>
        <li style="font-size:30px">Ocasional contributor of FOSS projects.</li>
     </ul>
@@ -284,6 +275,15 @@ Key to delivering INSPIRE is the establishment of Spatial Data Infrastructures (
 
 -->
 
+<!--+++?image=assets/int-womens-day.jpg-->
++++?image=assets/banner_iwd_8_march_en_2.png
+<!-- .slide: data-background-transition="none" -->
+
++++
+<!-- <pr style="font-size:100px"> How can we ease the provision of SDI's?-->
+* How can we ease the provision of SDI's?
+
++++?image=assets/journey.jpg&size=auto 90%
 
 ---
 
