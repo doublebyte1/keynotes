@@ -1,5 +1,5 @@
 logo : assets/codeop-logo.png
-theme : beige
+theme : white
 background : assets/bg.jpg
 theme-override : assets/css/PITCHME.css
 slide-number : true
