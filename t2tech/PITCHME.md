@@ -1,5 +1,5 @@
-# Spatial Data Infrastructures
-### In the age of Docker and Microservices
+# Transitioning into Tech
+### Why and How
 
 <!--+++?image=assets/int-womens-day.jpg-->
 +++?image=assets/banner_iwd_8_march_en_2.png
