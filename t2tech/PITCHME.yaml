@@ -1,5 +1,7 @@
 logo : assets/codeop-logo.png
 theme : white
+theme-override : assets/css/PITCHME.css
 slide-number : true
 transition : fade
 footnote : Joana Simoes - CodeOp
+
